@@ -41,13 +41,6 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
-
 {% capture col1 %}
 {%
   include figure.html
