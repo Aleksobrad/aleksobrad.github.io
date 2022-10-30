@@ -1,6 +1,9 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- orcid: 0000-0002-7423-0090
+  _cache: f1d57dbec23ed83d2ac393c20b2ea402385877492af36e720bb0a3111b5c9e01
+  date: ''
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
