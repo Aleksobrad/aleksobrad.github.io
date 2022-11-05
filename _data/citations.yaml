@@ -334,3 +334,35 @@
   - transplant immunology
   - systems biology
   _cache: b6d95ab9b88b7edbb5f6bbddd8bd2075fecbad53e96e7496336d45a3bdf746b7
+- id: doi:10.1158/1078-0432.CCR-19-3372
+  title: T-Cell Infiltration and Adaptive Treg Resistance in Response to Androgen
+    Deprivation With or Without Vaccination in Localized Prostate Cancer
+  authors:
+  - Aleksandar Z. Obradovic
+  - Matthew C. Dallos
+  - Marianna L. Zahurak
+  - Alan W. Partin
+  - Edward M. Schaeffer
+  - Ashley E. Ross
+  - Mohamad E. Allaf
+  - Thomas R. Nirschl
+  - David Liu
+  - Carolyn G. Chapman
+  - Tanya O'Neal
+  - Haiyi Cao
+  - Jennifer N. Durham
+  - Gunes Guner
+  - Javier A. Baena-Del Valle
+  - Onur Ertunc
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Charles G. Drake
+  publisher: Clinical Cancer Research
+  date: '2020-07-01'
+  link: https://doi.org/gqdbqn
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/26/13/5/m_clincanres_26_13_cover.png?Expires=1670672831&Signature=oA7~tg4Mu8yG87gonUWuDY7O8O6w-vpd-ZD3zfandGMPzJ2oLPQaThtcfa32BwoWT0eJ-QUiA0mrWAnW6dxpu3qBttoFCfrX-f8JKHnOMJHwe4UqbU2REtCWX7kqn3VEA86ci-R6Fxk2ZU6Mp3F6eej60daLnQ~7zKmlYCvNdavKDu6U~L0V236~XQA13LL6zasdQ~pi9GHqTpq3AIL4s8lrIZdhbocUXtupFW79IZ-p-4jd5SclOi4t-ffEa-IxvIy95~IPmqzn1OAPmQAgGZaN0-BlQHcSuAZGNT96ZIYAS9riLo8XQE5HFUAXBpXpxbbCxVag3HhRfsu7Hpkngg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 5d9f1f363c6bb918ffcbe26b00b1c6b51c54806e5d58a9241a09d578206ffab4
