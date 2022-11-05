@@ -310,3 +310,27 @@
   - transplant immunology
   - systems biology
   _cache: 8c2f26ed626ecabafb70a649e50adcbbd944321c068ae7acfb3108b79a4c6c54
+- id: doi:10.1111/ajt.15533
+  title: Siplizumab selectively depletes effector memory T cells and promotes a relative
+    expansion of alloreactive regulatory T cells in vitro
+  authors:
+  - "Manuel A. Podest\xE0"
+  - Christian Binder
+  - Felix Sellberg
+  - Susan DeWolf
+  - Brittany Shonts
+  - "Siu\u2010Hong Ho"
+  - Aleksandar Obradovic
+  - Elizabeth Waffarn
+  - Nichole Danzl
+  - David Berglund
+  - Megan Sykes
+  publisher: American Journal of Transplantation
+  date: '2019-07-18'
+  link: https://doi.org/gjfpbw
+  image: https://onlinelibrary.wiley.com/cms/asset/bcf8def5-571f-4bb6-8500-a48289dac414/ajt.v20.1.cover.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: b6d95ab9b88b7edbb5f6bbddd8bd2075fecbad53e96e7496336d45a3bdf746b7
