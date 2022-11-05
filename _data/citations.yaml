@@ -415,3 +415,126 @@
   - transplant immunology
   - systems biology
   _cache: cd50653d5c62f10ac5947ed0ecd78ace2cc77b966e0713feb955e8066dc3b184
+- id: doi:10.1136/jitc-2020-001649
+  title: 'TGM4: an immunogenic prostate-restricted antigen'
+  authors:
+  - Zoila A Lopez-Bujanda
+  - Aleksandar Obradovic
+  - Thomas R Nirschl
+  - Laura Crowley
+  - Rodney Macedo
+  - Alexandros Papachristodoulou
+  - "Timothy O\u2019Donnell"
+  - Uri Laserson
+  - Jelani C Zarif
+  - Ran Reshef
+  - Tiezheng Yuan
+  - Mithil K Soni
+  - Emmanuel S Antonarakis
+  - Michael C Haffner
+  - H Benjamin Larman
+  - Michael M Shen
+  - Pawel Muranski
+  - Charles G Drake
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: '2021-06-30'
+  link: https://doi.org/gq6pt9
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246381/bin/jitc-2020-001649f01.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 1b59f51f0cf63c6076900db2e60cdb5d9bca2ceef2abf8c64eefb8d28af6136d
+- id: doi:10.1172/JCI141698
+  title: Lymphohematopoietic graft-versus-host responses promote mixed chimerism in
+    patients receiving intestinal transplantation
+  authors:
+  - Jianing Fu
+  - Julien Zuber
+  - Brittany Shonts
+  - Aleksandar Obradovic
+  - Zicheng Wang
+  - Kristjana Frangaj
+  - Wenzhao Meng
+  - Aaron M. Rosenfeld
+  - Elizabeth E. Waffarn
+  - Peter Liou
+  - Sai-ping Lau
+  - Thomas M. Savage
+  - Suxiao Yang
+  - Kortney Rogers
+  - Nichole M. Danzl
+  - Shilpa Ravella
+  - Prakash Satwani
+  - Alina Iuga
+  - Siu-hong Ho
+  - Adam Griesemer
+  - Yufeng Shen
+  - Eline T. Luning Prak
+  - Mercedes Martinez
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Journal of Clinical Investigation
+  date: '2021-02-25'
+  link: https://doi.org/gq6pvb
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/141000/141698/medium/JCI141698.ga.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: ee750bb6ba22387583548557f45d09670b4e5413683e533f7f0167211ad46d74
+- id: doi:10.1111/ajt.16333
+  title: T cell repertoire analysis suggests a prominent bystander response in human
+    cardiac allograft vasculopathy
+  authors:
+  - Marlena V. Habal
+  - April M. I. Miller
+  - Samhita Rao
+  - Sijie Lin
+  - Aleksandar Obradovic
+  - "Mohsen Khosravi\u2010Maharlooei"
+  - Sarah B. See
+  - Poulomi Roy
+  - Ronzon Shihab
+  - "Siu\u2010Hong Ho"
+  - Charles C. Marboe
+  - Yoshifumi Naka
+  - Koji Takeda
+  - Susan Restaino
+  - Arnold Han
+  - Donna Mancini
+  - Michael Givertz
+  - Joren C. Madsen
+  - Megan Sykes
+  - Linda J. Addonizio
+  - Maryjane A. Farr
+  - Emmanuel Zorn
+  publisher: American Journal of Transplantation
+  date: '2020-10-05'
+  link: https://doi.org/gmqqr5
+  image: https://onlinelibrary.wiley.com/cms/asset/3d54fafd-3b3d-493e-8657-9d9c8717fd81/ajt.v21.4.cover.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: a73a533d457215467f3436b1e031979cecd7dde1a414f6120bf42fa21b8c77f6
+- id: doi:10.1158/2326-6066.CIR-20-0637
+  title: Longitudinal Immune Profiling Reveals Unique Myeloid and T-cell Phenotypes
+    Associated with Spontaneous Immunoediting in a Prostate Tumor Model
+  authors:
+  - Casey R. Ager
+  - Aleksandar Z. Obradovic
+  - Juan M. Arriaga
+  - Matthew G. Chaimowitz
+  - Andrea Califano
+  - Cory Abate-Shen
+  - Charles G. Drake
+  publisher: Cancer Immunology Research
+  date: '2021-05-01'
+  link: https://doi.org/gj3dcf
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/9/5/3/m_canimm_9_5_cover.png?Expires=1670673789&Signature=I6p6qMTDvQAkxk5oNouyWpAs11nE4Tld9SJ5TQsi4qMnz999HsCXhrAZM97-kNHgR-sns8l4StKfUkdSYncposyUXXEQQzyV60HykeOyJGef4qr~0Y5iHmDVQ1StqryUp8-VI6DsAn1znGPB-90BHGtFp1yOkiuw11HI28Yj1pTG-TSwcNZcf~8oqUbN1UW4zZrKaPiCbkiIEfSAyzK9eOITUb5D7uTMH5i4eHlAOgLfI1PKydn-efO0T6LG1V8gBqLtZWTSJij1Ob6ugcHcAnebMTsBlOXEHxjnu~TOVLl4LrFUw~fyfP-DlEK4U6uj5N13CpqOviq8dZRUKKZLXw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 945738bb9827ed3f0e0758a1e1cb64f1ce0cff9e51d31497cb3dbf85177c635b
