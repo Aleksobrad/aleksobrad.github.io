@@ -1,24 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- orcid: 0000-0002-7423-0090
-  _cache: f1d57dbec23ed83d2ac393c20b2ea402385877492af36e720bb0a3111b5c9e01
+- orcid: 0000-0002-8009-0186
+  _cache: 8fc49afc160a9d869563674638a04219822d5334e05ee9ebd5266635a75b75fb
   date: ''
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1016/j.eururo.2022.09.004
+  title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Christina Guo
+  - Ines Figueiredo
+  - Bora Gurel
+  - Antje Neeb
+  - George Seed
+  - Mateus Crespo
+  - Suzanne Carreira
+  - Jan Rekowski
+  - Lorenzo Buroni
+  - Jon Welti
+  - Denisa Bogdan
+  - Lewis Gallagher
+  - Adam Sharp
+  - Maria D. Fenor de la Maza
+  - Pasquale Rescigno
+  - Daniel Westaby
+  - Khobe Chandran
+  - Ruth Riisnaes
+  - Ana Ferreira
+  - Susana Miranda
+  - "Bianca Cal\xEC"
+  - Andrea Alimonti
+  - Silvia Bressan
+  - Alana H.T. Nguyen
+  - Michael M. Shen
+  - Jessica E. Hawley
+  - Aleksandar Obradovic
+  - Charles G. Drake
+  - Claudia Bertan
+  - Chloe Baker
+  - Nina Tunariu
+  - Wei Yuan
+  - Johann S. de Bono
+  publisher: European Urology
+  date: '2022-09-13'
+  link: https://doi.org/gq6nfq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  _cache: 25f86f8256902bc81fd685c06fd4765a2403bc6a5037875a9d25fb1a9ade8e1f
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
