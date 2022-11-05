@@ -44,12 +44,9 @@
   date: '2022-09-13'
   link: https://doi.org/gq6nfq
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - knowledge graphs
-  _cache: 25f86f8256902bc81fd685c06fd4765a2403bc6a5037875a9d25fb1a9ade8e1f
+  - prostate cancer
+  _cache: 305c1abcae7ec3a30bae423e9f467a2eb2573b0a42218b2333b1baffb70b2042
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
