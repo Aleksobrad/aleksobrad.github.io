@@ -4,11 +4,8 @@
 - id: doi:10.1016/j.eururo.2022.09.004
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   date: 2022-9-13
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - knowledge graphs
+    - prostate cancer
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
