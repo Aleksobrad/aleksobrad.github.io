@@ -302,14 +302,14 @@
   - Srinivasan Yegnasubramanian
   - Charles G. Drake
   publisher: Journal for ImmunoTherapy of Cancer
-  date: ''
+  date: '2019-10-01'
   link: https://doi.org/gh4xd4
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40425-019-0758-y/MediaObjects/40425_2019_758_Fig1_HTML.png?as=webp
   tags:
   - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: 8c2f26ed626ecabafb70a649e50adcbbd944321c068ae7acfb3108b79a4c6c54
+  _cache: bdaa7ff9d14a6b552a4548afcf4cad340e2e851d2fd716788a33edfc18f24093
 - id: doi:10.1111/ajt.15533
   title: Siplizumab selectively depletes effector memory T cells and promotes a relative
     expansion of alloreactive regulatory T cells in vitro
