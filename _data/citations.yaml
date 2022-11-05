@@ -1,9 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- orcid: 0000-0002-8009-0186
-  _cache: 8fc49afc160a9d869563674638a04219822d5334e05ee9ebd5266635a75b75fb
-  date: ''
 - id: doi:10.1016/j.eururo.2022.09.004
   title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
   authors:
