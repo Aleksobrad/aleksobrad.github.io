@@ -261,3 +261,31 @@
   - transplant immunology
   - systems biology
   _cache: 06cb495564c20fdea4eb7776e5008d332975a753a86fa9a0929d8bea2913c6c5
+- id: doi:10.1172/JCI124358
+  title: Cross-reactive public TCR sequences undergo positive selection in the human
+    thymic repertoire
+  authors:
+  - Mohsen Khosravi-Maharlooei
+  - Aleksandar Obradovic
+  - Aditya Misra
+  - Keshav Motwani
+  - Markus Holzl
+  - Howard R. Seay
+  - Susan DeWolf
+  - Grace Nauman
+  - Nichole Danzl
+  - Haowei Li
+  - Siu-hong Ho
+  - Robert Winchester
+  - Yufeng Shen
+  - Todd M. Brusko
+  - Megan Sykes
+  publisher: Journal of Clinical Investigation
+  date: '2019-03-28'
+  link: https://doi.org/gq6psk
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/124000/124358/medium/JCI124358.f1.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 03b80e7e720409121e238aca7fe8cfb727cb0c6795de8403886f927f77123944
