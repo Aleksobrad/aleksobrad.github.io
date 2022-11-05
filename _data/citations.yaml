@@ -139,3 +139,37 @@
   - transplant immunology
   - systems biology
   _cache: 42c1fb20aa4261a57d3024d19275aa522482cb6ba1b48f4d05138e97ac61eb7a
+- id: doi:10.1111/ajt.14251
+  title: Origin of Enriched Regulatory T Cells in Patients Receiving Combined Kidney-Bone
+    Marrow Transplantation to Induce Transplantation Tolerance
+  authors:
+  - B. Sprangers
+  - S. DeWolf
+  - T. M. Savage
+  - T. Morokata
+  - A. Obradovic
+  - S. A. LoCascio
+  - B. Shonts
+  - J. Zuber
+  - S. P. Lau
+  - R. Shah
+  - H. Morris
+  - V. Steshenko
+  - E. Zorn
+  - F. I. Preffer
+  - S. Olek
+  - D. M. Dombkowski
+  - L. A. Turka
+  - R. Colvin
+  - R. Winchester
+  - T. Kawai
+  - M. Sykes
+  publisher: American Journal of Transplantation
+  date: '2017-03-01'
+  link: https://doi.org/gq6prx
+  image: https://onlinelibrary.wiley.com/cms/asset/5f154fda-7bbc-4df0-8935-adf27c5f2f9a/ajt.2017.17.issue-8.cover.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: a94fdfac5c68c59ebe9b679b7daf20fa543665b55e7fb4166012b3669230acd3
