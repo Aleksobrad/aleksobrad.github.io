@@ -538,3 +538,82 @@
   - transplant immunology
   - systems biology
   _cache: 945738bb9827ed3f0e0758a1e1cb64f1ce0cff9e51d31497cb3dbf85177c635b
+- id: doi:10.1016/j.cell.2021.04.038
+  title: Single-cell protein activity analysis identifies recurrence-associated renal
+    tumor macrophages
+  authors:
+  - Aleksandar Obradovic
+  - Nivedita Chowdhury
+  - Scott M. Haake
+  - Casey Ager
+  - Vinson Wang
+  - Lukas Vlahos
+  - Xinzheng V. Guo
+  - David H. Aggen
+  - W. Kimryn Rathmell
+  - Eric Jonasch
+  - Joyce E. Johnson
+  - Marc Roth
+  - Kathryn E. Beckermann
+  - Brian I. Rini
+  - James McKiernan
+  - Andrea Califano
+  - Charles G. Drake
+  publisher: Cell
+  date: '2021-05-27'
+  link: https://doi.org/gj4vf6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421005730-fx1.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 6c767eada46f4885720d4b91ce81919cf0a5b38704d0377c028a75b6e84beba5
+- id: doi:10.1038/s43018-021-00227-3
+  title: Castration-mediated IL-8 promotes myeloid infiltration and prostate cancer
+    progression
+  authors:
+  - Zoila A. Lopez-Bujanda
+  - Michael C. Haffner
+  - Matthew G. Chaimowitz
+  - Nivedita Chowdhury
+  - Nicholas J. Venturini
+  - Radhika A. Patel
+  - Aleksandar Obradovic
+  - Corey S. Hansen
+  - "Joanna Jack\xF3w"
+  - Janielle P. Maynard
+  - Karen S. Sfanos
+  - Cory Abate-Shen
+  - Charles J. Bieberich
+  - Paula J. Hurley
+  - Mark J. Selby
+  - Alan J. Korman
+  - Angela M. Christiano
+  - Angelo M. De Marzo
+  - Charles G. Drake
+  publisher: Nature Cancer
+  date: '2021-07-19'
+  link: https://doi.org/gq6pvq
+  image: https://media.springernature.com/lw685/springer-static/esm/art%3A10.1038%2Fs43018-021-00227-3/MediaObjects/43018_2021_227_Fig11_ESM.jpg?as=webp
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 9e3009b1ee45713feb4cedc62c3724ac2b9e5dbac992270a5f39a2e55d83f9e2
+- id: doi:10.1016/j.simpa.2021.100142
+  title: Integrated analysis toolset for defining and tracking alloreactive T-cell
+    clones after human solid organ and hematopoietic stem cell transplantation
+  authors:
+  - Aleksandar Obradovic
+  - Yufeng Shen
+  - Megan Sykes
+  - Jianing Fu
+  publisher: Software Impacts
+  date: '2021-10-02'
+  link: https://doi.org/gq6pvr
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2665963821X00048-cov150h.gif
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 583060531bc1f4fac4d75426d9c5f678825f658315193932f4fdab3460321358
