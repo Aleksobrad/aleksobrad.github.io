@@ -289,3 +289,24 @@
   - transplant immunology
   - systems biology
   _cache: 03b80e7e720409121e238aca7fe8cfb727cb0c6795de8403886f927f77123944
+- id: doi:10.1186/s40425-019-0758-y
+  title: Immunogenicity of prostate cancer is augmented by BET bromodomain inhibition
+  authors:
+  - Wendy Mao
+  - Ali Ghasemzadeh
+  - Zachary T. Freeman
+  - Aleksandar Obradovic
+  - Matthew G. Chaimowitz
+  - Thomas R. Nirschl
+  - Emily McKiernan
+  - Srinivasan Yegnasubramanian
+  - Charles G. Drake
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: ''
+  link: https://doi.org/gh4xd4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40425-019-0758-y/MediaObjects/40425_2019_758_Fig1_HTML.png?as=webp
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 8c2f26ed626ecabafb70a649e50adcbbd944321c068ae7acfb3108b79a4c6c54
