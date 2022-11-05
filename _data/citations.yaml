@@ -617,3 +617,89 @@
   - transplant immunology
   - systems biology
   _cache: 583060531bc1f4fac4d75426d9c5f678825f658315193932f4fdab3460321358
+- id: doi:10.1101/2022.02.22.481404
+  title: Systematic Elucidation and Pharmacological Targeting of Tumor-Infiltrating
+    Regulatory T Cell Master Regulators
+  authors:
+  - Aleksandar Obradovic
+  - Casey Ager
+  - Mikko Turunen
+  - Thomas Nirschl
+  - Mohsen Khosravi-Maharlooei
+  - Christopher Jackson
+  - Vassan Yegnasubramanian
+  - Angelo DeMarzo
+  - Christina Kochel
+  - Mohamad Allaf
+  - Trinity Bivalacqua
+  - Michael Lim
+  - Charles Karan
+  - Charles G. Drake
+  - Andrea Califano
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-23'
+  link: https://doi.org/gq6pxc
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/02/23/2022.02.22.481404/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: c4efb4d7f82782a003f5304da669c65eb8b23e687d53b6ae335b6646decc9155
+- id: doi:10.1101/2022.02.28.482410
+  title: Case Study of Single-cell Protein Activity Based Drug Prediction for Precision
+    Treatment of Cholangiocarcinoma
+  authors:
+  - Aleksandar Obradovic
+  - Lorenzo Tomassoni
+  - Daoqi Yu
+  - Kristina Guillan
+  - Katie Souto
+  - Elise Fraser
+  - Susan Bates
+  - Charles G. Drake
+  - Yvonne Saenger
+  - Filemon Dela Cruz
+  - Andrew Kung
+  - Andrea Califano
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-02'
+  link: https://doi.org/gq6pxd
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/02/2022.02.28.482410/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: ef12cada6763f5759e0878f8306d06e5cec961cc55a627c3dc498f7db9689b18
+- id: doi:10.1101/2022.05.06.490968
+  title: Single-Cell RNAseq Analysis Reveals Robust, Anti-PD-1-Mediated Increase of
+    Immune Infiltrate in Metastatic Castration-Sensitive Prostate Cancer
+  authors:
+  - Jessica E. Hawley
+  - Aleksandar Z. Obradovic
+  - Matthew C. Dallos
+  - Emerson A. Lim
+  - Karie Runcie
+  - Casey R. Ager
+  - James McKiernan
+  - Christopher B. Anderson
+  - Joel Decastro
+  - Joshua Weintraub
+  - Renu Virk
+  - Israel Lowy
+  - Jianhua Hu
+  - Matthew G. Chaimowitz
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Jeremy Worley
+  - Mark N. Stein
+  - Andrea Califano
+  - Charles G. Drake
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-09'
+  link: https://doi.org/gq6pxf
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/09/2022.05.06.490968/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: a1d074c7769785bf61f6b3477159086a22b3a0c31c949d6c856b4c77ccd6abf9
