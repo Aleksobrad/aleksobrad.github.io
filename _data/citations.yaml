@@ -366,3 +366,32 @@
   - transplant immunology
   - systems biology
   _cache: 5d9f1f363c6bb918ffcbe26b00b1c6b51c54806e5d58a9241a09d578206ffab4
+- id: doi:10.1158/1078-0432.CCR-20-1610
+  title: 'Blocking IL1 Beta Promotes Tumor Regression and Remodeling of the Myeloid
+    Compartment in a Renal Cell Carcinoma Model: Multidimensional Analyses'
+  authors:
+  - David H. Aggen
+  - Casey R. Ager
+  - Aleksandar Z. Obradovic
+  - Nivedita Chowdhury
+  - Ali Ghasemzadeh
+  - Wendy Mao
+  - Matthew G. Chaimowitz
+  - Zoila A. Lopez-Bujanda
+  - Catherine S. Spina
+  - Jessica E. Hawley
+  - Matthew C. Dallos
+  - Cheng Zhang
+  - Vinson Wang
+  - Hu Li
+  - Xinzheng V. Guo
+  - Charles G. Drake
+  publisher: Clinical Cancer Research
+  date: '2021-01-19'
+  link: https://doi.org/gkm6s7
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/27/2/2/m_clincanres_27_2_cover.png?Expires=1670672959&Signature=xrs81QSBdXrBYoKEHnt0w0RAthzh00ZFLKXGy8hr~G9tM1LFHT1kkS-WX0riCHBDRgiDyzq2YMrRq~FbM8WtN-SQ~92K0Jntkc2yGYInj0mc~Pbe6mvsRyN~-3YPRpgNxP5GiR8CcZJRffwz29j~LK0Ta3lyJFRWlMXNNkBG~H8s94LQkvcpTd~KdfmHtfUvgyxBO0MpE0R~nNTmxDh4xiWxxF67IcWSJk~ZsatdEi1oDXuCgTRf-UT00~GqnUkJ9NjuajVNjcsbXPpIypi~omEQA1azc5klIF2AakFbMbTdhlnH65vmnZfC7d1NhCA7ZDUvgTZjhwD7rIHgH5noNg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 97a459a274feb3922d9795ebc050ca28ae640301d46c6c471cb4f4f4fc82cfa7
