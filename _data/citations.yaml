@@ -107,3 +107,35 @@
   - transplant immunology
   - systems biology
   _cache: 4b384091045e47720c982137890f66fbc107070bab3b2473326495321454d013
+- id: doi:10.1126/sciimmunol.aah3732
+  title: Bidirectional intragraft alloreactivity drives the repopulation of human
+    intestinal allografts and correlates with clinical outcome
+  authors:
+  - Julien Zuber
+  - Brittany Shonts
+  - Sai-Ping Lau
+  - Aleksandar Obradovic
+  - Jianing Fu
+  - Suxiao Yang
+  - Marion Lambert
+  - Shana Coley
+  - Joshua Weiner
+  - Joseph Thome
+  - Susan DeWolf
+  - Donna L. Farber
+  - Yufeng Shen
+  - Sophie Caillat-Zucman
+  - Govind Bhagat
+  - Adam Griesemer
+  - Mercedes Martinez
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Science Immunology
+  date: ''
+  link: https://doi.org/gmh235
+  image: https://www.science.org/cdn-cgi/image/width=400/cms/asset/8086faf2-5472-4b1b-b40f-6fc96af7afba/sciimmunol.2022.7.issue-77.largecover.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 9c01b22fe63e4d84b45382194fbae8bf52954da463b69172e526b2678387d7c4
