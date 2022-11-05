@@ -224,3 +224,40 @@
   - transplant immunology
   - systems biology
   _cache: a4892ba5fb702776a82de8d295c4e3a62ccc0675cdf56472b0eaeb1ed3571677
+- id: doi:10.1016/j.stem.2018.11.007
+  title: Human Intestinal Allografts Contain Functional Hematopoietic Stem and Progenitor
+    Cells that Are Maintained by a Circulating Pool
+  authors:
+  - Jianing Fu
+  - Julien Zuber
+  - Mercedes Martinez
+  - Brittany Shonts
+  - Aleksandar Obradovic
+  - Hui Wang
+  - Sai-ping Lau
+  - Amy Xia
+  - Elizabeth E. Waffarn
+  - Kristjana Frangaj
+  - Thomas M. Savage
+  - Michael T. Simpson
+  - Suxiao Yang
+  - Xinzheng V. Guo
+  - Michelle Miron
+  - Takashi Senda
+  - Kortney Rogers
+  - Adeeb Rahman
+  - Siu-hong Ho
+  - Yufeng Shen
+  - Adam Griesemer
+  - Donna L. Farber
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Cell Stem Cell
+  date: '2019-02-07'
+  link: https://doi.org/gq6psh
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1934590918305435-fx1.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 06cb495564c20fdea4eb7776e5008d332975a753a86fa9a0929d8bea2913c6c5
