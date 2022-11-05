@@ -47,29 +47,33 @@
   tags:
   - prostate cancer
   _cache: 305c1abcae7ec3a30bae423e9f467a2eb2573b0a42218b2333b1baffb70b2042
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1097/01.tp.0000888048.23424.42
+  title: '425.3: Single-Cell Immune Profiling of Human Intestinal Allografts Reveals
+    Differential Phenotypes of Alloreactive T-Cell Clones in Quiescent vs Chronically
+    Rejecting Allografts'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
+  - Jianing Fu
+  - Zicheng Wang
+  - Mercedes Martinez
+  - Wenyu Jiao
+  - Kristjana Frangaj
+  - Rebecca Jones
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Wan-I Kuo
+  - Aleksandar Obradovic
+  - Wenji Ma
+  - Kortney Rogers
+  - Tomoaki Kato
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: Transplantation
+  date: '2022-09-01'
+  link: https://doi.org/gq6ngp
+  image: https://images.journals.lww.com/transplantjournal/Original.00007890-202209001-00716.F2.jpeg
+  tags:
+  - RNAseq
+  _cache: a7eaf8fc6fd27174d18c4dfd6881fde1cb7bfc7400cad59eaca561b9675442d2
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
