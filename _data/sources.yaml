@@ -113,3 +113,35 @@
     - tumor immunology
     - transplant immunology
     - systems biology
+
+- id: doi:10.1136/jitc-2020-001649
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246381/bin/jitc-2020-001649f01.jpg
+  date: 2021-6-30
+  tags:
+    - tumor immunology
+    - transplant immunology
+    - systems biology
+
+- id: doi:10.1172/JCI141698
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/141000/141698/medium/JCI141698.ga.jpg
+  date: 2021-2-25
+  tags:
+    - tumor immunology
+    - transplant immunology
+    - systems biology
+
+- id: doi:10.1111/ajt.16333
+  image: https://onlinelibrary.wiley.com/cms/asset/3d54fafd-3b3d-493e-8657-9d9c8717fd81/ajt.v21.4.cover.jpg
+  date: 2020-10-5
+  tags:
+    - tumor immunology
+    - transplant immunology
+    - systems biology
+
+- id: doi:10.1158/2326-6066.CIR-20-0637
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/9/5/3/m_canimm_9_5_cover.png?Expires=1670673789&Signature=I6p6qMTDvQAkxk5oNouyWpAs11nE4Tld9SJ5TQsi4qMnz999HsCXhrAZM97-kNHgR-sns8l4StKfUkdSYncposyUXXEQQzyV60HykeOyJGef4qr~0Y5iHmDVQ1StqryUp8-VI6DsAn1znGPB-90BHGtFp1yOkiuw11HI28Yj1pTG-TSwcNZcf~8oqUbN1UW4zZrKaPiCbkiIEfSAyzK9eOITUb5D7uTMH5i4eHlAOgLfI1PKydn-efO0T6LG1V8gBqLtZWTSJij1Ob6ugcHcAnebMTsBlOXEHxjnu~TOVLl4LrFUw~fyfP-DlEK4U6uj5N13CpqOviq8dZRUKKZLXw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  date: 2021-5-1
+  tags:
+    - tumor immunology
+    - transplant immunology
+    - systems biology
