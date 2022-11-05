@@ -77,3 +77,33 @@
   - transplant immunology
   - systems biology
   _cache: ca7672cf72da2e339c434448494a21fce0407088761d4d55181224912e659ca1
+- id: doi:10.1002/path.5830
+  title: "<scp>BCG</scp>\n            invokes superior\n            <scp>STING</scp>\n\
+    \            \u2010mediated innate immune response over radiotherapy in a carcinogen\
+    \ murine model of urothelial cancer"
+  authors:
+  - Kara A Lombardo
+  - Aleksandar Obradovic
+  - Alok Kumar Singh
+  - James L Liu
+  - Gregory Joice
+  - Max Kates
+  - William Bishai
+  - David McConkey
+  - Alcides Chaux
+  - "Marie\u2010Lisa Eich"
+  - M Katayoon Rezaei
+  - George J Netto
+  - Charles G Drake
+  - Phuoc Tran
+  - Andres Matoso
+  - Trinity J Bivalacqua
+  publisher: The Journal of Pathology
+  date: '2021-11-03'
+  link: https://doi.org/gq6njf
+  image: https://onlinelibrary.wiley.com/cms/asset/35734156-4f8a-43f6-8224-38e1ca03aa77/path5830-fig-0001-m.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: 4b384091045e47720c982137890f66fbc107070bab3b2473326495321454d013
