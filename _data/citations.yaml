@@ -395,3 +395,23 @@
   - transplant immunology
   - systems biology
   _cache: 97a459a274feb3922d9795ebc050ca28ae640301d46c6c471cb4f4f4fc82cfa7
+- id: doi:10.1101/2021.05.20.445002
+  title: 'PISCES: A pipeline for the Systematic, Protein Activity-based Analysis of
+    Single Cell RNA Sequencing Data'
+  authors:
+  - Aleksandar Obradovic
+  - Lukas Vlahos
+  - Pasquale Laise
+  - Jeremy Worley
+  - Xiangtian Tan
+  - Alec Wang
+  - Andrea Califano
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-25'
+  link: https://doi.org/gq6pt2
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/01/25/2021.05.20.445002/F1.medium.gif
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: cd50653d5c62f10ac5947ed0ecd78ace2cc77b966e0713feb955e8066dc3b184
