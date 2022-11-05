@@ -131,14 +131,14 @@
   - Tomoaki Kato
   - Megan Sykes
   publisher: Science Immunology
-  date: ''
+  date: '2016-10-01'
   link: https://doi.org/gmh235
   image: https://www.science.org/cdn-cgi/image/width=400/cms/asset/8086faf2-5472-4b1b-b40f-6fc96af7afba/sciimmunol.2022.7.issue-77.largecover.jpg
   tags:
   - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: 42c1fb20aa4261a57d3024d19275aa522482cb6ba1b48f4d05138e97ac61eb7a
+  _cache: f6ca4ceaad1bae827510fc30c953bc563eac6dc15505556cf12521ba1e8048be
 - id: doi:10.1111/ajt.14251
   title: Origin of Enriched Regulatory T Cells in Patients Receiving Combined Kidney-Bone
     Marrow Transplantation to Induce Transplantation Tolerance
@@ -173,3 +173,54 @@
   - transplant immunology
   - systems biology
   _cache: a94fdfac5c68c59ebe9b679b7daf20fa543665b55e7fb4166012b3669230acd3
+- id: doi:10.1172/jci.insight.121256
+  title: Quantifying size and diversity of the human T cell alloresponse
+  authors:
+  - Susan DeWolf
+  - Boris Grinshpun
+  - Thomas Savage
+  - Sai Ping Lau
+  - Aleksandar Obradovic
+  - Brittany Shonts
+  - Suxiao Yang
+  - Heather Morris
+  - Julien Zuber
+  - Robert Winchester
+  - Megan Sykes
+  - Yufeng Shen
+  publisher: JCI Insight
+  date: '2018-08-09'
+  link: https://doi.org/gq6psg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129121/bin/jciinsight-3-121256-g161.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: b5c4ff777a3eb92c5a9b59097d462ea3d4c33f0f0ae8455e55a75bf3a773f458
+- id: doi:10.1172/jci.insight.124086
+  title: Early expansion of donor-specific Tregs in tolerant kidney transplant recipients
+  authors:
+  - Thomas M. Savage
+  - Brittany A. Shonts
+  - Aleksandar Obradovic
+  - Susan Dewolf
+  - Saiping Lau
+  - Julien Zuber
+  - Michael T. Simpson
+  - Erik Berglund
+  - Jianing Fu
+  - Suxiao Yang
+  - Siu-Hong Ho
+  - Qizhi Tang
+  - Laurence A. Turka
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: JCI Insight
+  date: ''
+  link: https://doi.org/gh8tmv
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302945/bin/jciinsight-3-124086-g085.jpg
+  tags:
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: a4892ba5fb702776a82de8d295c4e3a62ccc0675cdf56472b0eaeb1ed3571677
