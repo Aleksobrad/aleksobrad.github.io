@@ -49,48 +49,34 @@
   - transplant immunology
   - systems biology
   _cache: af634a3adf19355f1be19d2bb0df07f9dde355d6ee014816d32366d6c13b7b3f
-- id: doi:10.1016/j.eururo.2022.09.004
-  title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
+- id: doi:10.1158/1078-0432.CCR-21-3570
+  title: Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict
+    Immunotherapy Response in Head and Neck Cancer
   authors:
-  - Christina Guo
-  - Ines Figueiredo
-  - Bora Gurel
-  - Antje Neeb
-  - George Seed
-  - Mateus Crespo
-  - Suzanne Carreira
-  - Jan Rekowski
-  - Lorenzo Buroni
-  - Jon Welti
-  - Denisa Bogdan
-  - Lewis Gallagher
-  - Adam Sharp
-  - Maria D. Fenor de la Maza
-  - Pasquale Rescigno
-  - Daniel Westaby
-  - Khobe Chandran
-  - Ruth Riisnaes
-  - Ana Ferreira
-  - Susana Miranda
-  - "Bianca Cal\xEC"
-  - Andrea Alimonti
-  - Silvia Bressan
-  - Alana H.T. Nguyen
-  - Michael M. Shen
-  - Jessica E. Hawley
   - Aleksandar Obradovic
+  - Diana Graves
+  - Michael Korrer
+  - Yu Wang
+  - Sohini Roy
+  - Abdullah Naveed
+  - Yaomin Xu
+  - Adam Luginbuhl
+  - Joseph Curry
+  - Michael Gibson
+  - Kamran Idrees
+  - Paula Hurley
+  - Peng Jiang
+  - X. Shirley Liu
+  - Ravindra Uppaluri
   - Charles G. Drake
-  - Claudia Bertan
-  - Chloe Baker
-  - Nina Tunariu
-  - Wei Yuan
-  - Johann S. de Bono
-  publisher: European Urology
-  date: '2022-09-13'
-  link: https://doi.org/gq6nfq
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
+  - Andrea Califano
+  - Young J. Kim
+  publisher: Clinical Cancer Research
+  date: '2022-05-15'
+  link: https://doi.org/gpsk67
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/10/1/m_clincanres_28_10_cover.png?Expires=1670637786&Signature=jSMXWL0ltcrOtSRQQAGCRH-htWusGEmusO9J58m3BPV24G3gIwSprQyEwn6HQGwYikYFLIWmSuYWKe17oFkbGNgJxoEPmcH0Fxv0nes5mSGeJVnJBXy8nj5wDug4urIglbhX9dkP5cgLgDJXCz9ZaoC8iaeg8NNcT0QQvYo0mT7udcAY8F5dODrZSVE1UA5QU8u01P2hHdqKj46yjAYdrs8W3QSCfH15ecjTaFmAsCGIzXP~nW8l2Lxi9sYzZ1wqtWZPnZOczrcSSX4WAz9UBjOSaWgYR2pkyW8l7EdaHwjEl3lHas-noLD6t0Hyww7ezb-2aMsHb9n7izJ6kiHqng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: af634a3adf19355f1be19d2bb0df07f9dde355d6ee014816d32366d6c13b7b3f
+  _cache: ca7672cf72da2e339c434448494a21fce0407088761d4d55181224912e659ca1
