@@ -45,58 +45,52 @@
   link: https://doi.org/gq6nfq
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   tags:
-  - prostate cancer
-  _cache: 305c1abcae7ec3a30bae423e9f467a2eb2573b0a42218b2333b1baffb70b2042
-- id: doi:10.1097/01.tp.0000888048.23424.42
-  title: '425.3: Single-Cell Immune Profiling of Human Intestinal Allografts Reveals
-    Differential Phenotypes of Alloreactive T-Cell Clones in Quiescent vs Chronically
-    Rejecting Allografts'
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: af634a3adf19355f1be19d2bb0df07f9dde355d6ee014816d32366d6c13b7b3f
+- id: doi:10.1016/j.eururo.2022.09.004
+  title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
   authors:
-  - Jianing Fu
-  - Zicheng Wang
-  - Mercedes Martinez
-  - Wenyu Jiao
-  - Kristjana Frangaj
-  - Rebecca Jones
-  - Xinzheng V. Guo
-  - Ya Zhang
-  - Wan-I Kuo
+  - Christina Guo
+  - Ines Figueiredo
+  - Bora Gurel
+  - Antje Neeb
+  - George Seed
+  - Mateus Crespo
+  - Suzanne Carreira
+  - Jan Rekowski
+  - Lorenzo Buroni
+  - Jon Welti
+  - Denisa Bogdan
+  - Lewis Gallagher
+  - Adam Sharp
+  - Maria D. Fenor de la Maza
+  - Pasquale Rescigno
+  - Daniel Westaby
+  - Khobe Chandran
+  - Ruth Riisnaes
+  - Ana Ferreira
+  - Susana Miranda
+  - "Bianca Cal\xEC"
+  - Andrea Alimonti
+  - Silvia Bressan
+  - Alana H.T. Nguyen
+  - Michael M. Shen
+  - Jessica E. Hawley
   - Aleksandar Obradovic
-  - Wenji Ma
-  - Kortney Rogers
-  - Tomoaki Kato
-  - Yufeng Shen
-  - Megan Sykes
-  publisher: Transplantation
-  date: '2022-09-01'
-  link: https://doi.org/gq6ngp
-  image: https://images.journals.lww.com/transplantjournal/Original.00007890-202209001-00716.F2.jpeg
+  - Charles G. Drake
+  - Claudia Bertan
+  - Chloe Baker
+  - Nina Tunariu
+  - Wei Yuan
+  - Johann S. de Bono
+  publisher: European Urology
+  date: '2022-09-13'
+  link: https://doi.org/gq6nfq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   tags:
-  - RNAseq
-  _cache: a7eaf8fc6fd27174d18c4dfd6881fde1cb7bfc7400cad59eaca561b9675442d2
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - tumor immunology
+  - transplant immunology
+  - systems biology
+  _cache: af634a3adf19355f1be19d2bb0df07f9dde355d6ee014816d32366d6c13b7b3f
