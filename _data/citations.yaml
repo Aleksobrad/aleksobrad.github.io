@@ -130,10 +130,8 @@
   link: https://doi.org/gmh235
   image: https://www.science.org/cdn-cgi/image/width=400/cms/asset/8086faf2-5472-4b1b-b40f-6fc96af7afba/sciimmunol.2022.7.issue-77.largecover.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: f6ca4ceaad1bae827510fc30c953bc563eac6dc15505556cf12521ba1e8048be
+  _cache: eca4030d603b0fada2fc3db2cec3ec12f96143481da4d6beb1379cac7a7b3131
 - id: doi:10.1111/ajt.14251
   title: Origin of Enriched Regulatory T Cells in Patients Receiving Combined Kidney-Bone
     Marrow Transplantation to Induce Transplantation Tolerance
@@ -164,10 +162,8 @@
   link: https://doi.org/gq6prx
   image: https://onlinelibrary.wiley.com/cms/asset/5f154fda-7bbc-4df0-8935-adf27c5f2f9a/ajt.2017.17.issue-8.cover.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: a94fdfac5c68c59ebe9b679b7daf20fa543665b55e7fb4166012b3669230acd3
+  _cache: 9e9a0e4788f9e8efd3d2e777cb45c3d97dde9f26a8d8b24793d29b2ccff2e74f
 - id: doi:10.1172/jci.insight.121256
   title: Quantifying size and diversity of the human T cell alloresponse
   authors:
@@ -188,10 +184,9 @@
   link: https://doi.org/gq6psg
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6129121/bin/jciinsight-3-121256-g161.jpg
   tags:
-  - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: b5c4ff777a3eb92c5a9b59097d462ea3d4c33f0f0ae8455e55a75bf3a773f458
+  _cache: 1c3641576c6331413ec35f1ba096ef5529474d2b6564bba21b04ee729863830b
 - id: doi:10.1172/jci.insight.124086
   title: Early expansion of donor-specific Tregs in tolerant kidney transplant recipients
   authors:
@@ -215,10 +210,8 @@
   link: https://doi.org/gh8tmv
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302945/bin/jciinsight-3-124086-g085.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: 471679aedbdd8babc4fd6fcfd6c1330d54b3cf4fb9df6030e89f6b1c4f713452
+  _cache: 3c5d41affa5b605bc38a642cbd060347269f10563192090859895a2d9eeee046
 - id: doi:10.1016/j.stem.2018.11.007
   title: Human Intestinal Allografts Contain Functional Hematopoietic Stem and Progenitor
     Cells that Are Maintained by a Circulating Pool
@@ -252,10 +245,8 @@
   link: https://doi.org/gq6psh
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1934590918305435-fx1.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: 06cb495564c20fdea4eb7776e5008d332975a753a86fa9a0929d8bea2913c6c5
+  _cache: 991d5f5c0e64199f96aeacd4f2552884d4672abcb24f1f7cc861953059750ab3
 - id: doi:10.1172/JCI124358
   title: Cross-reactive public TCR sequences undergo positive selection in the human
     thymic repertoire
@@ -280,10 +271,9 @@
   link: https://doi.org/gq6psk
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/124000/124358/medium/JCI124358.f1.jpg
   tags:
-  - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: 03b80e7e720409121e238aca7fe8cfb727cb0c6795de8403886f927f77123944
+  _cache: 7c171a98b087ad822e44bacf6442c5883baf55cfca0641b341b2ccd2c493fdf8
 - id: doi:10.1186/s40425-019-0758-y
   title: Immunogenicity of prostate cancer is augmented by BET bromodomain inhibition
   authors:
@@ -323,10 +313,8 @@
   link: https://doi.org/gjfpbw
   image: https://onlinelibrary.wiley.com/cms/asset/bcf8def5-571f-4bb6-8500-a48289dac414/ajt.v20.1.cover.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: b6d95ab9b88b7edbb5f6bbddd8bd2075fecbad53e96e7496336d45a3bdf746b7
+  _cache: ae54eae5d1edfe23e3e5ec80d90e350cf3da8eaeb8755c653521502a04072f5b
 - id: doi:10.1158/1078-0432.CCR-19-3372
   title: T-Cell Infiltration and Adaptive Treg Resistance in Response to Androgen
     Deprivation With or Without Vaccination in Localized Prostate Cancer
