@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our research focus is on developing computational tools for analysis of single-cell RNA sequencing and multimodal data types and applying these tools for improved understanding of tumor immunotherapy resistance mechanisms. With multiple mechanisms of treatment resistance present to varying degreees across tumor types and across patients, it is critical to understand tumor immune interactions within the microenvironment of solid tumors and develop a rational approach to combination therapy in treatment-resistant individuals.
 
 {% include section.html %}
 
