@@ -302,9 +302,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40425-019-0758-y/MediaObjects/40425_2019_758_Fig1_HTML.png?as=webp
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: bdaa7ff9d14a6b552a4548afcf4cad340e2e851d2fd716788a33edfc18f24093
+  _cache: 78e98fbf4e273b3ceb3efa22b909e32ab87ecbc1d98446e447ac884cb81f0c7b
 - id: doi:10.1111/ajt.15533
   title: Siplizumab selectively depletes effector memory T cells and promotes a relative
     expansion of alloreactive regulatory T cells in vitro
@@ -358,9 +356,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/26/13/5/m_clincanres_26_13_cover.png?Expires=1670672831&Signature=oA7~tg4Mu8yG87gonUWuDY7O8O6w-vpd-ZD3zfandGMPzJ2oLPQaThtcfa32BwoWT0eJ-QUiA0mrWAnW6dxpu3qBttoFCfrX-f8JKHnOMJHwe4UqbU2REtCWX7kqn3VEA86ci-R6Fxk2ZU6Mp3F6eej60daLnQ~7zKmlYCvNdavKDu6U~L0V236~XQA13LL6zasdQ~pi9GHqTpq3AIL4s8lrIZdhbocUXtupFW79IZ-p-4jd5SclOi4t-ffEa-IxvIy95~IPmqzn1OAPmQAgGZaN0-BlQHcSuAZGNT96ZIYAS9riLo8XQE5HFUAXBpXpxbbCxVag3HhRfsu7Hpkngg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 5d9f1f363c6bb918ffcbe26b00b1c6b51c54806e5d58a9241a09d578206ffab4
+  _cache: 1e35f1945c1ea25adc9a5d789c4ef20bb08293a6e5dc0196dc02aa7bd001f274
 - id: doi:10.1158/1078-0432.CCR-20-1610
   title: 'Blocking IL1 Beta Promotes Tumor Regression and Remodeling of the Myeloid
     Compartment in a Renal Cell Carcinoma Model: Multidimensional Analyses'
@@ -501,10 +497,8 @@
   link: https://doi.org/gmqqr5
   image: https://onlinelibrary.wiley.com/cms/asset/3d54fafd-3b3d-493e-8657-9d9c8717fd81/ajt.v21.4.cover.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: a73a533d457215467f3436b1e031979cecd7dde1a414f6120bf42fa21b8c77f6
+  _cache: 9d005630bedc6de623e1a5d6553e8de3dc44137918b1911f49f72d13e3e4a6ee
 - id: doi:10.1158/2326-6066.CIR-20-0637
   title: Longitudinal Immune Profiling Reveals Unique Myeloid and T-cell Phenotypes
     Associated with Spontaneous Immunoediting in a Prostate Tumor Model
