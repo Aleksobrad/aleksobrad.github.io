@@ -387,9 +387,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/27/2/2/m_clincanres_27_2_cover.png?Expires=1670672959&Signature=xrs81QSBdXrBYoKEHnt0w0RAthzh00ZFLKXGy8hr~G9tM1LFHT1kkS-WX0riCHBDRgiDyzq2YMrRq~FbM8WtN-SQ~92K0Jntkc2yGYInj0mc~Pbe6mvsRyN~-3YPRpgNxP5GiR8CcZJRffwz29j~LK0Ta3lyJFRWlMXNNkBG~H8s94LQkvcpTd~KdfmHtfUvgyxBO0MpE0R~nNTmxDh4xiWxxF67IcWSJk~ZsatdEi1oDXuCgTRf-UT00~GqnUkJ9NjuajVNjcsbXPpIypi~omEQA1azc5klIF2AakFbMbTdhlnH65vmnZfC7d1NhCA7ZDUvgTZjhwD7rIHgH5noNg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 97a459a274feb3922d9795ebc050ca28ae640301d46c6c471cb4f4f4fc82cfa7
+  _cache: a307ed081e97c74c8a48aab70f9cc149ee583068e9c2f5381ad73198916de6d5
 - id: doi:10.1101/2021.05.20.445002
   title: 'PISCES: A pipeline for the Systematic, Protein Activity-based Analysis of
     Single Cell RNA Sequencing Data'
@@ -470,10 +468,8 @@
   link: https://doi.org/gq6pvb
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/141000/141698/medium/JCI141698.ga.jpg
   tags:
-  - tumor immunology
   - transplant immunology
-  - systems biology
-  _cache: ee750bb6ba22387583548557f45d09670b4e5413683e533f7f0167211ad46d74
+  _cache: f01a1298317c6bb07bba904a66b849bbabe00447952f3bcfa515874e1328c8d2
 - id: doi:10.1111/ajt.16333
   title: T cell repertoire analysis suggests a prominent bystander response in human
     cardiac allograft vasculopathy
@@ -526,9 +522,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/9/5/3/m_canimm_9_5_cover.png?Expires=1670673789&Signature=I6p6qMTDvQAkxk5oNouyWpAs11nE4Tld9SJ5TQsi4qMnz999HsCXhrAZM97-kNHgR-sns8l4StKfUkdSYncposyUXXEQQzyV60HykeOyJGef4qr~0Y5iHmDVQ1StqryUp8-VI6DsAn1znGPB-90BHGtFp1yOkiuw11HI28Yj1pTG-TSwcNZcf~8oqUbN1UW4zZrKaPiCbkiIEfSAyzK9eOITUb5D7uTMH5i4eHlAOgLfI1PKydn-efO0T6LG1V8gBqLtZWTSJij1Ob6ugcHcAnebMTsBlOXEHxjnu~TOVLl4LrFUw~fyfP-DlEK4U6uj5N13CpqOviq8dZRUKKZLXw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 945738bb9827ed3f0e0758a1e1cb64f1ce0cff9e51d31497cb3dbf85177c635b
+  _cache: 30f2f4433f4a7d87c3c17c05b14495cc002506a1d6d0b90da848d1e958a76177
 - id: doi:10.1016/j.cell.2021.04.038
   title: Single-cell protein activity analysis identifies recurrence-associated renal
     tumor macrophages
@@ -556,9 +550,8 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421005730-fx1.jpg
   tags:
   - tumor immunology
-  - transplant immunology
   - systems biology
-  _cache: 6c767eada46f4885720d4b91ce81919cf0a5b38704d0377c028a75b6e84beba5
+  _cache: b1f80b6b4d471f4d436d9f4bcdea0939fb21a446949d5374982d0c9b0e2dfdf2
 - id: doi:10.1038/s43018-021-00227-3
   title: Castration-mediated IL-8 promotes myeloid infiltration and prostate cancer
     progression
