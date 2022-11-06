@@ -17,8 +17,6 @@
   date: 2021-11-3
   tags:
     - tumor immunology
-    - transplant immunology
-    - systems biology
    
 #2016-10-21
 - id: doi:10.1126/sciimmunol.aah3732
@@ -114,8 +112,6 @@
   date: 2021-6-30
   tags:
     - tumor immunology
-    - transplant immunology
-    - systems biology
 
 - id: doi:10.1172/JCI141698
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/141000/141698/medium/JCI141698.ga.jpg
@@ -154,14 +150,11 @@
   date: 2021-7-19
   tags:
     - tumor immunology
-    - transplant immunology
-    - systems biology
 
 - id: doi:10.1016/j.simpa.2021.100142
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2665963821X00048-cov150h.gif
   date: 2021-10-2
   tags:
-    - tumor immunology
     - transplant immunology
     - systems biology
 
