@@ -101,9 +101,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/35734156-4f8a-43f6-8224-38e1ca03aa77/path5830-fig-0001-m.jpg
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 4b384091045e47720c982137890f66fbc107070bab3b2473326495321454d013
+  _cache: a8340f70c4e5a1ac097842a07914b68d1cde96180e225394dcbf2157e6bcca83
 - id: doi:10.1126/sciimmunol.aah3732
   title: Bidirectional intragraft alloreactivity drives the repopulation of human
     intestinal allografts and correlates with clinical outcome
@@ -437,9 +435,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246381/bin/jitc-2020-001649f01.jpg
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 1b59f51f0cf63c6076900db2e60cdb5d9bca2ceef2abf8c64eefb8d28af6136d
+  _cache: e09e44ff37d6aeb64003813dfe4b30e10018958947b787fc99c872d67bb3c14d
 - id: doi:10.1172/JCI141698
   title: Lymphohematopoietic graft-versus-host responses promote mixed chimerism in
     patients receiving intestinal transplantation
@@ -592,9 +588,7 @@
   image: https://media.springernature.com/lw685/springer-static/esm/art%3A10.1038%2Fs43018-021-00227-3/MediaObjects/43018_2021_227_Fig11_ESM.jpg?as=webp
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: 9e3009b1ee45713feb4cedc62c3724ac2b9e5dbac992270a5f39a2e55d83f9e2
+  _cache: 75f94f2a58a09d42420763eb26ba4f374341ea45392651858d5cb8406919d518
 - id: doi:10.1016/j.simpa.2021.100142
   title: Integrated analysis toolset for defining and tracking alloreactive T-cell
     clones after human solid organ and hematopoietic stem cell transplantation
@@ -608,10 +602,9 @@
   link: https://doi.org/gq6pvr
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2665963821X00048-cov150h.gif
   tags:
-  - tumor immunology
   - transplant immunology
   - systems biology
-  _cache: 583060531bc1f4fac4d75426d9c5f678825f658315193932f4fdab3460321358
+  _cache: 83b1ac28d06b75d6b4994126d413936f15bbe71873a8ce96387e67268a79ceda
 - id: doi:10.1101/2022.02.22.481404
   title: Systematic Elucidation and Pharmacological Targeting of Tumor-Infiltrating
     Regulatory T Cell Master Regulators
