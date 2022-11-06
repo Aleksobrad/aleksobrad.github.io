@@ -43,9 +43,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   tags:
   - tumor immunology
-  - transplant immunology
-  - systems biology
-  _cache: af634a3adf19355f1be19d2bb0df07f9dde355d6ee014816d32366d6c13b7b3f
+  _cache: 947e963cdaa8aee29b842e5e3aaa46ffd84072b7ef1b15b95174ce331bea2ec9
 - id: doi:10.1158/1078-0432.CCR-21-3570
   title: Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict
     Immunotherapy Response in Head and Neck Cancer
@@ -74,9 +72,8 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/10/1/m_clincanres_28_10_cover.png?Expires=1670637786&Signature=jSMXWL0ltcrOtSRQQAGCRH-htWusGEmusO9J58m3BPV24G3gIwSprQyEwn6HQGwYikYFLIWmSuYWKe17oFkbGNgJxoEPmcH0Fxv0nes5mSGeJVnJBXy8nj5wDug4urIglbhX9dkP5cgLgDJXCz9ZaoC8iaeg8NNcT0QQvYo0mT7udcAY8F5dODrZSVE1UA5QU8u01P2hHdqKj46yjAYdrs8W3QSCfH15ecjTaFmAsCGIzXP~nW8l2Lxi9sYzZ1wqtWZPnZOczrcSSX4WAz9UBjOSaWgYR2pkyW8l7EdaHwjEl3lHas-noLD6t0Hyww7ezb-2aMsHb9n7izJ6kiHqng__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - tumor immunology
-  - transplant immunology
   - systems biology
-  _cache: ca7672cf72da2e339c434448494a21fce0407088761d4d55181224912e659ca1
+  _cache: ce07959b719ec8305cab1cc53fd71e40f843ec52b963990b9485cd7853e66c8a
 - id: doi:10.1002/path.5830
   title: "<scp>BCG</scp>\n            invokes superior\n            <scp>STING</scp>\n\
     \            \u2010mediated innate immune response over radiotherapy in a carcinogen\
@@ -700,6 +697,5 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2022/05/09/2022.05.06.490968/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - tumor immunology
-  - transplant immunology
   - systems biology
-  _cache: a1d074c7769785bf61f6b3477159086a22b3a0c31c949d6c856b4c77ccd6abf9
+  _cache: 03f1a3339a506ae8291bdc6a8f309433edacf67a78dc5969f050d7416de1c3d0
