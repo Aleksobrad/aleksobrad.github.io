@@ -1,16 +1,13 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 1
   tooltip: About our team
 ---
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our team is expanding! Please see below for opportunities to join.
 
 {% include section.html %}
 
@@ -20,72 +17,28 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: pi"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Postdoctoral Research Scientist
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Seeking individual with a quantitative background, must be highly motivated to solve biological problems, and have experience analyzing large-scale transcriptomic data. Interest in or experience with single-cell RNA-Seq tissue processing techniques is a plus. The candidate should have strong working knowledge of at least one programming language for implementing computational models and algorithms (R and/or python preferred), and familiarity with machine learning concepts.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+Research Projects and Directions will include:
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+Optimizing computational tools for analysis of single-nucleus and multi-modal single-cell data (scRNA-Seq, snRNA-Seq, CITE-Seq, TCR-Seq, and spatial transcriptomics)
+
+Generating and expanding on a Precision Medicine database of immunogenic drug effects 
+
+Analysis of clinical trial data
+
+If interested, please submit an application or inquiries by e-mail to Dr. Aleksandar Obradovic (azo2104@cumc.columbia.edu). Please include a cover letter with a CV describing previous research experience, research interests, and future goals.
 {:.center}
 
 {% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
