@@ -7,34 +7,26 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Medicine](), at the [Columbia University Irving Medical Center]().
+We are located on the 9th floor of the [Herbert Irving Cancer Research Center]().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="azo2104@cumc.columbia.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="azo2104@cumc.columbia.edu"
   style="button"
 %}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
+
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/The+Herbert+Irving+Comprehensive+Cancer+Center/@40.8409651,-73.9433855,15z/data=!4m2!3m1!1s0x0:0x30e7341a8bf900d6?sa=X&ved=2ahUKEwjD-9DI_5v7AhXdl4kEHRjIDPYQ_BJ6BAhqEAU"
   style="button"
 %}
 {:.center}
@@ -44,15 +36,15 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="[images/photo.jpg](https://images.squarespace-cdn.com/content/v1/5d642b9e7bbe5f00015507ef/1567531431057-WQD3A20RUWAJ2XN3SZHC/ColumbiaUniversityMedicalCenter.jpg)"
+  caption="Columbia University Irving Medical Center"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="Department of Medicine"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
