@@ -43,7 +43,7 @@ We are located on the 9th floor of the [Herbert Irving Cancer Research Center]()
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image=["images/photo.jpg"](https://cchd.columbiamedicine.org/images/CU_DOM_BLUE-100,72_GIF.gif)
   caption="Department of Medicine"
 %}
 {% endcapture %}
