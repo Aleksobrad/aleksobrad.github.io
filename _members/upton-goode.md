@@ -1,18 +1,14 @@
 ---
-name: Upton O. Goode
+name: Aleksandar Obradovic
 image: images/member.jpg
-description: Bone Investigator
+description: Principal Investigator
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - A. Obradovic
+
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0002-8009-0186
+  email: azo2104@cumc.columbia.edu
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Aleksandar received his Ph.D. in Systems Biology from Columbia University and is an MD candidate, expected to graduate Spring 2023.
