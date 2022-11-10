@@ -5,7 +5,7 @@ title: Home
   include feature.html
   image="images/logo.png"
 %}
-
+{:.center}
 # Systems Biology and Precision Immuno-Oncology
 
 # Highlights
