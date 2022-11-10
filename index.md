@@ -1,10 +1,6 @@
 ---
 title: Home
 ---
-{:.center}
-image="images/logo.png"
-image="favicons/share-thumbnail.jpg"
-{:.center}
 
 # Systems Biology and Precision Immuno-Oncology
 
