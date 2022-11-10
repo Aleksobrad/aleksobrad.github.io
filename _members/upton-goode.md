@@ -1,6 +1,6 @@
 ---
 name: Aleksandar Obradovic
-image: images/member.jpg
+image: images/Aleksandar_Obradovic.jpeg
 description: Principal Investigator
 role: pi
 aliases:
