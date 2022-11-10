@@ -13,7 +13,6 @@ title: Home
 {%
   include feature.html
   image="images/favicon.png"
-  text=text
 %}
 
 
