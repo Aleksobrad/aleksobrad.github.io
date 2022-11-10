@@ -36,14 +36,14 @@ We are located on the 9th floor of the [Herbert Irving Cancer Research Center]()
 {% capture col1 %}
 {%
   include figure.html
-  image=["images/ColumbiaUniversityMedicalCenter.jpeg"]
+  image="images/ColumbiaUniversityMedicalCenter.jpeg"
   caption="Columbia University Irving Medical Center"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image=["images/medicine.gif"]
+  image="images/medicine.gif"
   caption="Department of Medicine"
 %}
 {% endcapture %}
