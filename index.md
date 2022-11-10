@@ -7,8 +7,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Obradovic Lab focuses on development of novel approaches for analysis of transcriptional, TCR-Seq, and spatial data, at the bulk and single-cell level. We apply these tools across clinical trial data toward an improved understanding of the immunological mechanisms of resistance to checkpoint inhibitors, with an aim to infer and prioritize synergistic combination-therapies.
 
 {%
   include link.html
