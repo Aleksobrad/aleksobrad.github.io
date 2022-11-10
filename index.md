@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+{:.center}
+images/logo.png
+
 {%
   include figure.html
   image="images/logo.png"
