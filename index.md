@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Systems Biology and Precision Immuno-Oncology
 
 # Highlights
 
@@ -22,7 +22,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cellabstract.jpg"
   link="research"
   title="Our Research"
   text=text
