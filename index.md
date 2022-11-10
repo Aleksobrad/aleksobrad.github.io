@@ -4,6 +4,12 @@ title: Home
 
 # Systems Biology and Precision Immuno-Oncology
 
+{%
+  include figure.html
+  image="images/logo.png"
+  width="600px"
+%}
+
 # Highlights
 
 {% capture text %}
