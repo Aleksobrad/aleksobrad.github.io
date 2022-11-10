@@ -2,6 +2,7 @@
 title: Home
 ---
 {:.center}
+hi
 {%
   include feature.html
   image="images/logo.png"
