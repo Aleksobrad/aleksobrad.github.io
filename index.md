@@ -4,7 +4,7 @@ title: Home
 {:.center}
 {%
   include feature.html
-  image="images/share-thumbnail.jpg
+  image="images/favicon.png
 "
 %}
 {:.center}
