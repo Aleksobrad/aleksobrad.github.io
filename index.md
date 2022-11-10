@@ -3,9 +3,7 @@ title: Home
 ---
 {:.center}
 {%
-  include feature.html
   image="images/favicon.png
-"
 %}
 {:.center}
 # Systems Biology and Precision Immuno-Oncology
