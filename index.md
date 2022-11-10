@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-
+image="images/logo.png"
 # Systems Biology and Precision Immuno-Oncology
 
 # Highlights
