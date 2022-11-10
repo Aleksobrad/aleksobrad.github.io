@@ -2,13 +2,20 @@
 title: Home
 ---
 {:.center}
-hi
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/share-thumbnail.jpg
+"
 %}
 {:.center}
 # Systems Biology and Precision Immuno-Oncology
+
+{%
+  include feature.html
+  image="images/favicon.png"
+  text=text
+%}
+
 
 # Highlights
 
