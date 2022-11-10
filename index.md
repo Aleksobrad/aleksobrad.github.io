@@ -3,20 +3,20 @@ title: Home
 ---
 {%
   include figure.html
-  image="favicons/favicon.png"
+  image="images/logo.png"
   width="400px"
 %}
 
 {:.center}
 {%
-  image="favicons/favicon.png
+  image="images/logo.png"
 %}
 {:.center}
 # Systems Biology and Precision Immuno-Oncology
 
 {%
   include feature.html
-  image="favicons/favicon.png"
+  image="images/logo.png"
 %}
 
 
