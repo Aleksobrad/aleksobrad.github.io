@@ -1,17 +1,7 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
-links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+name: Aparna Krishnan
+image: images/aparna_krishnan.jpeg
+description: Undergraduate Researcher
+role: undergraduate
 ---
-
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Aparna is an undergraduate at Columbia (‘24) studying biology and applied statistics.
