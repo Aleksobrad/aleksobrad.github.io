@@ -1,6 +1,6 @@
 ---
 name: Manan Vij
-image: images/manan_vij.heic
+image: images/manan_vij.png
 description: Undergraduate Researcher
 role: undergrad
 ---
