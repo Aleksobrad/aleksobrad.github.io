@@ -1,7 +1,7 @@
 ---
-name: Aparna Krishnan
-image: images/aparna_krishnan.jpeg
+name: Manan Vij
+image: images/manan_vij.heic
 description: Undergraduate Researcher
 role: undergrad
 ---
-Aparna is an undergraduate at Columbia (‘24) studying biology and applied statistics.
+Manan is an undergraduate student at Columbia University majoring in Computer Science - Intelligent Systems on a pre-med track and is passionate about leveraging technology to advance medicine.
