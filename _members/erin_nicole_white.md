@@ -1,5 +1,5 @@
 ---
-name: Manan Vij
+name: Erin White
 image: images/erin_nicole_white.jpeg
 description: Undergraduate Researcher
 role: undergrad
