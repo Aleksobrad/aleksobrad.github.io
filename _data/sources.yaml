@@ -1,9 +1,21 @@
 # Aleksandar Obradovic
-- id: doi:10.1016/j.ccell.2023.04.003
-  image: https://www.cell.com/cms/attachment/7114db8b-9334-44f7-9bc1-2e60885fba76/fx1.jpg
-  date: 2023-8-27
+- id: doi:10.1016/j.eururo.2022.09.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
+  date: 2022-9-13
   tags:
     - tumor immunology
+    
+- id: doi:10.1126/science.adg5585
+  image: https://www.science.org/cms/10.1126/science.adg5585/asset/99b9ccec-6750-4ded-aa1a-852395094276/assets/images/large/science.adg5585-f1.jpg
+  date: 2023-2-16
+  tags:
+    - tumor immunology
+    
+- id: doi:10.1101/2023.01.01.522340
+  image: https://www.frontiersin.org/files/Articles/894508/fimmu-13-894508-HTML/image_m/fimmu-13-894508-g001.jpg
+  date: 2023-1-2
+  tags:
+    - tumor immunology    
 
 - id: doi:10.1016/j.eururo.2022.09.004
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
