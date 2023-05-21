@@ -1,49 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.eururo.2022.09.004
-  title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
+- id: doi:10.1016/j.ccell.2023.04.003
+  title: "Systematic elucidation and pharmacological targeting of tumor-infiltrating\
+    \ regulatory T\_cell master regulators"
   authors:
-  - Christina Guo
-  - Ines Figueiredo
-  - Bora Gurel
-  - Antje Neeb
-  - George Seed
-  - Mateus Crespo
-  - Suzanne Carreira
-  - Jan Rekowski
-  - Lorenzo Buroni
-  - Jon Welti
-  - Denisa Bogdan
-  - Lewis Gallagher
-  - Adam Sharp
-  - Maria D. Fenor de la Maza
-  - Pasquale Rescigno
-  - Daniel Westaby
-  - Khobe Chandran
-  - Ruth Riisnaes
-  - Ana Ferreira
-  - Susana Miranda
-  - "Bianca Cal\xEC"
-  - Andrea Alimonti
-  - Silvia Bressan
-  - Alana H.T. Nguyen
-  - Michael M. Shen
-  - Jessica E. Hawley
   - Aleksandar Obradovic
+  - Casey Ager
+  - Mikko Turunen
+  - Thomas Nirschl
+  - Mohsen Khosravi-Maharlooei
+  - Alina Iuga
+  - Christopher M. Jackson
+  - Srinivasan Yegnasubramanian
+  - Lorenzo Tomassoni
+  - Ester Calvo Fernandez
+  - Patrick McCann
+  - Meri Rogava
+  - Angelo M. DeMarzo
+  - Christina M. Kochel
+  - Mohamad Allaf
+  - Trinity Bivalacqua
+  - Michael Lim
+  - Ronald Realubit
+  - Charles Karan
   - Charles G. Drake
-  - Claudia Bertan
-  - Chloe Baker
-  - Nina Tunariu
-  - Wei Yuan
-  - Johann S. de Bono
-  publisher: European Urology
-  date: '2022-09-13'
-  link: https://doi.org/gq6nfq
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
+  - Andrea Califano
+  publisher: Cancer Cell
+  date: '2023-04-27'
+  link: https://doi.org/gr8x7w
+  image: https://www.cell.com/cms/attachment/7114db8b-9334-44f7-9bc1-2e60885fba76/fx1.jpg
   tags:
   - tumor immunology
-  _cache: 947e963cdaa8aee29b842e5e3aaa46ffd84072b7ef1b15b95174ce331bea2ec9
+  _cache: 93ad76d9e56f589357a4fa0f303eb9f3bd2087b4f53247bf29e95a9c9d06339f
 - id: doi:10.1126/science.adg5585
   title: Precision immunotherapy
   authors:
