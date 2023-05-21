@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our team is expanding! Please see below for opportunities to join.
+Our team is expanding! Please email azo2104@cumc.columbia.edu for opportunities to join.
 
 {% include section.html %}
 
@@ -41,7 +41,5 @@ Our team is expanding! Please see below for opportunities to join.
 {% include section.html %}
 
 ## Join
-
-Reach out to azo2104@cumc.columbia.edu if interested to join!
 
 {% include section.html %}
