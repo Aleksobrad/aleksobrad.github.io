@@ -1,38 +1,83 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.ccell.2023.04.003
-  title: "Systematic elucidation and pharmacological targeting of tumor-infiltrating\
-    \ regulatory T\_cell master regulators"
+- id: doi:10.1016/j.eururo.2022.09.004
+  title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
   authors:
+  - Christina Guo
+  - Ines Figueiredo
+  - Bora Gurel
+  - Antje Neeb
+  - George Seed
+  - Mateus Crespo
+  - Suzanne Carreira
+  - Jan Rekowski
+  - Lorenzo Buroni
+  - Jon Welti
+  - Denisa Bogdan
+  - Lewis Gallagher
+  - Adam Sharp
+  - Maria D. Fenor de la Maza
+  - Pasquale Rescigno
+  - Daniel Westaby
+  - Khobe Chandran
+  - Ruth Riisnaes
+  - Ana Ferreira
+  - Susana Miranda
+  - "Bianca Cal\xEC"
+  - Andrea Alimonti
+  - Silvia Bressan
+  - Alana H.T. Nguyen
+  - Michael M. Shen
+  - Jessica E. Hawley
   - Aleksandar Obradovic
-  - Casey Ager
-  - Mikko Turunen
-  - Thomas Nirschl
-  - Mohsen Khosravi-Maharlooei
-  - Alina Iuga
-  - Christopher M. Jackson
-  - Srinivasan Yegnasubramanian
-  - Lorenzo Tomassoni
-  - Ester Calvo Fernandez
-  - Patrick McCann
-  - Meri Rogava
-  - Angelo M. DeMarzo
-  - Christina M. Kochel
-  - Mohamad Allaf
-  - Trinity Bivalacqua
-  - Michael Lim
-  - Ronald Realubit
-  - Charles Karan
   - Charles G. Drake
-  - Andrea Califano
-  publisher: Cancer Cell
-  date: '2023-08-27'
-  link: https://doi.org/gr8x7w
-  image: https://www.cell.com/cms/attachment/7114db8b-9334-44f7-9bc1-2e60885fba76/fx1.jpg
+  - Claudia Bertan
+  - Chloe Baker
+  - Nina Tunariu
+  - Wei Yuan
+  - Johann S. de Bono
+  publisher: European Urology
+  date: '2022-09-13'
+  link: https://doi.org/gq6nfq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283822026331-gr4.jpg
   tags:
   - tumor immunology
-  _cache: 45d27337747271423a639f2454a5f6f2beb5a4463d245d8e03bcffcdd411bf61
+  _cache: 947e963cdaa8aee29b842e5e3aaa46ffd84072b7ef1b15b95174ce331bea2ec9
+- id: doi:10.1126/science.adg5585
+  title: Precision immunotherapy
+  authors:
+  - Aleksandar Obradovic
+  publisher: Science
+  date: '2023-02-16'
+  link: https://doi.org/gr8x77
+  image: https://www.science.org/cms/10.1126/science.adg5585/asset/99b9ccec-6750-4ded-aa1a-852395094276/assets/images/large/science.adg5585-f1.jpg
+  tags:
+  - tumor immunology
+  _cache: b588eb0a4361bfaaaf554c4e126fde3059315ea01375d75515401f0e48ffb669
+- id: doi:10.1101/2023.01.01.522340
+  title: KLRG1 marks tumor-infiltrating CD4 T cell subsets associated with tumor progression
+    and immunotherapy response
+  authors:
+  - Casey R. Ager
+  - Mingxuan Zhang
+  - Matthew Chaimowitz
+  - Shruti Bansal
+  - Aleksandar Obradovic
+  - Meri Rogava
+  - Johannes C. Melms
+  - Patrick McCann
+  - Catherine Spina
+  - Charles G. Drake
+  - Matthew C. Dallos
+  - Benjamin Izar
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-02'
+  link: https://doi.org/gr8x78
+  image: https://www.frontiersin.org/files/Articles/894508/fimmu-13-894508-HTML/image_m/fimmu-13-894508-g001.jpg
+  tags:
+  - tumor immunology
+  _cache: 0c356b81a63786056b7fd618efd19c8027ffd74102de0dac3d562cf87101c5a2
 - id: doi:10.1016/j.eururo.2022.09.004
   title: B7-H3 as a Therapeutic Target in Advanced Prostate Cancer
   authors:
