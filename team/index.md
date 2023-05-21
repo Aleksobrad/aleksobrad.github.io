@@ -23,6 +23,14 @@ Our team is expanding! Please email azo2104@cumc.columbia.edu for opportunities 
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{:.center}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {:.center}
