@@ -11,4 +11,4 @@ links:
   email: azo2104@cumc.columbia.edu
 ---
 
-Aleksandar received his Ph.D. in Systems Biology from Columbia University and is an MD candidate, expected to graduate Spring 2023.
+Aleksandar Obradovic received his M.D/Ph.D. from Columbia University in 2023, graduating in the Department of Systems Biology under the joint mentorship of Dr. Andrea Califano and Dr. Charles Drake. Dr. Obradovic is currently an associate research scientist in the Columbia Department of Medicine -- Divison of Experimental Therapeutics, and a resident physician in Internal Medicine at New York Presbyterian Hospital. 
