@@ -1,6 +1,2822 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1200/PO-26-00138
+  title: 'Targeting of MEK and Autophagy in Pancreatic Adenocarcinoma and Analysis
+    of Treatment Sensitivity in Preclinical and Clinical Models: MEKiAUTO'
+  authors:
+  - Brian W. Labadie
+  - Aleksandar Obradovic
+  - Alexander G. Raufi
+  - Urszula N. Wasko
+  - Lorenzo Tomassoni
+  - Liner Ge
+  - Michael May
+  - Manan Vij
+  - Li Li
+  - Isabelle Ross
+  - Sarah S. Sedycius
+  - Naomi Sender
+  - Nickolas Dreher
+  - Linda Wu
+  - Sinan Abuzaid
+  - Alina Iuga
+  - Parin Shah
+  - Julia D. Wulfkuhle
+  - Susan Bates
+  - Winston Wong
+  - Ilenia Pellicciotta
+  - Alex K. Lyashchenko
+  - Howard Safran
+  - Benjamin Izar
+  - Emanuel F. Petricoin
+  - Serge Cremers
+  - Aik Choon Tan
+  - Shing Lee
+  - Andrea Califano
+  - Kenneth P. Olive
+  - Gulam A. Manji
+  publisher: JCO Precision Oncology
+  date: '2026-06-01'
+  link: https://doi.org/hcgsv3
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 29d6391786c16085c5e9a1e42dee3db11c76d7b171402296449586ae75f52b99
+- id: doi:10.64898/2026.03.04.26347529
+  title: Physician-scientist hiring practices at US universities before and after
+    the COVID-19 pandemic
+  authors:
+  - Evan Noch
+  - Aleksandar Obradovic
+  - Snigdha Jain
+  - Jennifer M Kwan
+  publisher: openRxiv
+  date: '2026-03-12'
+  link: https://doi.org/hcgsv5
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: b978d9f1a0020e56cfbc092f9e07b2838e8c35db8a3646b90892580b65d09952
+- id: doi:10.1158/2159-8290.30859070
+  title: "Supplementary Data 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgsv7
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 7b4e2e49463f69f3c4bb19ddcf4f60ed44e2a9733e4b28edf0de9b110ff13ba5
+- id: doi:10.1158/2159-8290.30859064
+  title: "Supplementary Data 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgsv8
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 876c5af8d62a5c52b891e569b17ab3da0b98769166e957158ad0790d7e02fceb
+- id: doi:10.1158/2159-8290.30859061
+  title: "Supplementary Data 3 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswb
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 51dcc03281a7f47e4e582b7234f68a067a163589ad860ccb30a099cfa1ebd535
+- id: doi:10.1158/2159-8290.30859058
+  title: "Supplementary Data 4 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswc
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: bda75a256b5d28a7df924a8de2e689d0f96a1a818bd61dfe6270be9b4706dba1
+- id: doi:10.1158/2159-8290.30859055
+  title: "Supplementary Data 5 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswf
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 757a98e8b06b4ee64753c24bb72219f67383a102c43bd697b98f34bf2a094a17
+- id: doi:10.1158/2159-8290.30859052
+  title: "Supplementary Data 6 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswg
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 6afcebeab2791dfacc835da7fe5602b9297f56e5e53f38aecc90b8eb176f6a58
+- id: doi:10.1158/2159-8290.30859049
+  title: "Supplementary Figures from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswj
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 3e57dd7317eac03efe8c8463771d76c8fc6d7cb2a35a591c6373f3babb59ad05
+- id: doi:10.1158/2159-8290.30859046
+  title: "Supplementary Table 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswk
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 5cf96a8e75a8888265bca28846c209ceb146309e5758e3ba9d7985515f269b4a
+- id: doi:10.1158/2159-8290.30859043
+  title: "Supplementary Table 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-12-11'
+  link: https://doi.org/hcgswn
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: d098c504ffead1f50b170c74724f3b53c116edf3dbe33d3d746adfbdb8ecad07
+- id: doi:10.1158/1078-0432.CCR-24-0060
+  title: Androgen Deprivation Therapy Drives a Distinct Immune Phenotype in Localized
+    Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: Clinical Cancer Research
+  date: '2024-09-13'
+  link: https://doi.org/g9466c
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 5c1d65cbff19c42ed63ed17d20e88dd075a5438cde9948d7314ad317e74fc6ae
+- id: doi:10.1158/1078-0432.c.7541199
+  title: Data from Androgen Deprivation Therapy Drives a Distinct Immune Phenotype
+    in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgswp
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 547086ee9a1d4362213ac987557024b85fd54875ae40a3df1c80835c74b138a8
+- id: doi:10.1158/1078-0432.27754905
+  title: Supplemental Figure S1 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgswr
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 387ccf7858cf71313f807f8b4b92bd9d2cb18078d042186e657e944772f88422
+- id: doi:10.1158/1078-0432.27754902
+  title: Supplemental Figure S2 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgsws
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: a9dc8b8f5d4dbaca3d9fca9bb55d9795e55de28f1d38373dc24475727af13cc6
+- id: doi:10.1158/1078-0432.27754899
+  title: Supplemental Figure S3 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgswv
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: b2a6ff7bb3e1c77965d4484bbcdbd11111439f3ecdead971869f994f34d979f9
+- id: doi:10.1158/1078-0432.27754896
+  title: Supplemental Figure S4 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgsww
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 1d645ef3c7d50b2151556b7d9a309dadeb649af93daa19f48406055d7398602c
+- id: doi:10.1158/1078-0432.27754893
+  title: Supplemental Figure S5 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgswz
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 4ee845b851d89c108e79136596d672d0be53c1f2cbbeff1afa5bacd27ab2b4da
+- id: doi:10.1158/1078-0432.27754890
+  title: Supplemental Figure S6 from Androgen Deprivation Therapy Drives a Distinct
+    Immune Phenotype in Localized Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-11-15'
+  link: https://doi.org/hcgsw2
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 2ffc2277aebda22b42c04052b42eb9c8796ae4c5dbc896fd815893a6f8280358
+- id: doi:10.1101/2024.09.09.24313308
+  title: Fc-enhanced anti-CTLA-4 depletes tumor-infiltrating regulatory T cells to
+    augment immune effects of androgen ablation in high-risk prostate cancer
+  authors:
+  - Casey R. Ager
+  - Aleksandar Obradovic
+  - Patrick McCann
+  - Matthew Chaimowitz
+  - Alexander L. E. Wang
+  - Neha Shaikh
+  - Parin Shah
+  - Samuel S. Pan
+  - Caroline J. Laplaca
+  - Renu K. Virk
+  - Jessica C. Hill
+  - Collin Jugler
+  - Grace DeFranco
+  - Nilika Bhattacharya
+  - Kade R. Copple
+  - Howard I. Scher
+  - Guarionex Joel DeCastro
+  - Christopher B. Anderson
+  - James M. McKiernan
+  - Catherine S. Spina
+  - Mark N. Stein
+  - Karie Runcie
+  - Charles G. Drake
+  - Andrea Califano
+  - Matthew C. Dallos
+  publisher: openRxiv
+  date: '2024-09-11'
+  link: https://doi.org/hcgsw4
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: d8e79400abff2ea952e49591835018f1ef8d5581e80f2b9de4401817e544ca0a
+- id: doi:10.1084/jem.20230930
+  title: Plasticity of intragraft alloreactive T cell clones in human gut correlates
+    with transplant outcomes
+  authors:
+  - Jianing Fu
+  - Zicheng Wang
+  - Mercedes Martinez
+  - Aleksandar Obradovic
+  - Wenyu Jiao
+  - Kristjana Frangaj
+  - Rebecca Jones
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Wan-I Kuo
+  - Huaibin M. Ko
+  - Alina Iuga
+  - Constanza Bay Muntnich
+  - Adriana Prada Rey
+  - Kortney Rogers
+  - Julien Zuber
+  - Wenji Ma
+  - Michelle Miron
+  - Donna L. Farber
+  - Joshua Weiner
+  - Tomoaki Kato
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: Journal of Experimental Medicine
+  date: '2023-12-13'
+  link: https://doi.org/hcgsw5
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 63fafcdcfbfc3bc686a01f77687073113f7af57290899678fcf9a4948f2ce953
+- id: doi:10.1158/2159-8290.c.6603190
+  title: "Data from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming Mutant\
+    \ p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsw6
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 957f319d7b92185fd43cb75cfebbbd449faf0542df577412b22931c220c4dcec
+- id: doi:10.1158/2159-8290.c.6603190.v2
+  title: "Data from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming Mutant\
+    \ p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsw8
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 7cdd9a63c16105563ddd64da755e1c35b879cfaffbf26219bb4399bfcfbb2506
+- id: doi:10.1158/2159-8290.CD-22-0882
+  title: "Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming Mutant p53 Promotes\
+    \ Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: Cancer Discovery
+  date: '2023-04-17'
+  link: https://doi.org/hcgsw9
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 559bddbd25f8ebdfeffa6210579e71128f512cff3c8ab5e1d90866005d777697
+- id: doi:10.1158/2159-8290.22758966
+  title: "Supplementary Data 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxc
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 7e856bcda28fbf792ea7e9f94cf3194e95ab1cc254ccb954981acfec54783fe2
+- id: doi:10.1158/2159-8290.22758966.v1
+  title: "Supplementary Data 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxd
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: cdd16419e6701956b7f3e0c21b171457fdcc828d9f550e9a136b5497ea49fb49
+- id: doi:10.1158/2159-8290.22758963
+  title: "Supplementary Data 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxg
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 4de32b04656f7009b0029fb4d5e9ac348b7bce48b1d7994d8a0a42bb92c4c6bd
+- id: doi:10.1158/2159-8290.22758963.v1
+  title: "Supplementary Data 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxh
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 579e75405c9efe62fa270891b43a169a051e44dbf3ffbe9d46f633e975507fda
+- id: doi:10.1158/2159-8290.22758960
+  title: "Supplementary Data 3 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxk
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 1e69b2cccbd9d1f0442adaef97286b29147a0ee84c3d3fb88d4163dfee81c408
+- id: doi:10.1158/2159-8290.22758960.v1
+  title: "Supplementary Data 3 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxm
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 3b8f222400bb2fcb772999fc12c9b4832e30aa93e970966c8aad42044d3a6d2f
+- id: doi:10.1158/2159-8290.22758957.v1
+  title: "Supplementary Data 4 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxp
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 78965d69ae791cf413b2cda750f07ae7ed742ec73d8d2496471df1e576b8b284
+- id: doi:10.1158/2159-8290.22758957
+  title: "Supplementary Data 4 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxq
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: b4137f437b229bfe404261102db638ee41000c60d5ad8ec4ed5f8a0ef06c969f
+- id: doi:10.1158/2159-8290.22758954.v1
+  title: "Supplementary Data 5 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxs
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: ccab30424f8f1a1e5a029fcb85cb4d83ff5c64309fb212b72df0a98f52a317b3
+- id: doi:10.1158/2159-8290.22758954
+  title: "Supplementary Data 5 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxt
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 1babe863f959f6e19d552d710516468980784edd4e930baf090418be82d45e5d
+- id: doi:10.1158/2159-8290.22758951
+  title: "Supplementary Data 6 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxv
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 6f7ad0159a7ecb610641a73687eb0612d2952a2cea13e346baa1bc66843c8cc2
+- id: doi:10.1158/2159-8290.22758951.v1
+  title: "Supplementary Data 6 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsxx
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: a1ba590582bc927cedf9eb528299ef75516e33053f1d9793dc23f4f999bb0674
+- id: doi:10.1158/2159-8290.22758948
+  title: "Supplementary Figures from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx2
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 5053e3a4e79203f7576452e9dab5c0fb305590b771a114d3cd6220cc962bd3bc
+- id: doi:10.1158/2159-8290.22758948.v1
+  title: "Supplementary Figures from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx3
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 87f6d4c5cb5466462cf9ec76bb6a8633ab5edfa5797c4ce9329d37d1dc87b40b
+- id: doi:10.1158/2159-8290.22758945.v1
+  title: "Supplementary Table 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx4
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: d10cfdf85ddb89a4c497ce2f40cad9202c149825ef1b252147fb5c68922d6379
+- id: doi:10.1158/2159-8290.22758945
+  title: "Supplementary Table 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx6
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: b8aec3ebe9e3d66ea54a643014de61f4a1e7ee4c6acb8e755b9faea4b1d54cf8
+- id: doi:10.1158/2159-8290.22758942.v1
+  title: "Supplementary Table 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx7
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: a3b8f942ce727a4076c52747da9087055e2058e5f168ce53cd0c3db632b348d3
+- id: doi:10.1158/2159-8290.22758942
+  title: "Supplementary Table 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-05-04'
+  link: https://doi.org/hcgsx9
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 6b4479f38d6aa7bd32e4fd603a55c1dce67256aadf6de984b7975cc291c857b5
+- id: doi:10.1016/j.ccell.2023.04.003
+  title: "Systematic elucidation and pharmacological targeting of tumor-infiltrating\
+    \ regulatory T\_cell master regulators"
+  authors:
+  - Aleksandar Obradovic
+  - Casey Ager
+  - Mikko Turunen
+  - Thomas Nirschl
+  - Mohsen Khosravi-Maharlooei
+  - Alina Iuga
+  - Christopher M. Jackson
+  - Srinivasan Yegnasubramanian
+  - Lorenzo Tomassoni
+  - Ester Calvo Fernandez
+  - Patrick McCann
+  - Meri Rogava
+  - Angelo M. DeMarzo
+  - Christina M. Kochel
+  - Mohamad Allaf
+  - Trinity Bivalacqua
+  - Michael Lim
+  - Ronald Realubit
+  - Charles Karan
+  - Charles G. Drake
+  - Andrea Califano
+  publisher: Cancer Cell
+  date: '2023-05-01'
+  link: https://doi.org/gr8x7w
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 6a65b4a9ec4d768ab3b7176c5af89df9a315bdd3456491a7c6caf6e3bc8e3da9
+- id: doi:10.1158/2159-8290.c.6603190.v1
+  title: "Data from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming Mutant\
+    \ p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszc
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 796e6d6204526b6fa616b0aee170a440513add26e51665b5a5effa0f544dab26
+- id: doi:10.1158/2159-8290.22645255.v1
+  title: "Supplementary Data 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszd
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: faff0632aa4dd5b9e4d3efc85872a59005c543f2f57177af73fa26ef16cbf839
+- id: doi:10.1158/2159-8290.22645255
+  title: "Supplementary Data 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszg
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 5c203995dad7085c7ca4f860ecc61e8a13b630c17aa8087ccde4149be6fb7823
+- id: doi:10.1158/2159-8290.22645252.v1
+  title: "Supplementary Data 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszh
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: aba53b85de4c89d2bb81735d79cf7270b87599009b9f23c8ede1c4e1c8235481
+- id: doi:10.1158/2159-8290.22645252
+  title: "Supplementary Data 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszk
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 08ad9829b6eb991398741b5d6effa22a3001a146fef6e269079acc129426d544
+- id: doi:10.1158/2159-8290.22645249
+  title: "Supplementary Data 3 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszm
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 8e48c62f90d0e99ab0683a6dd0f247b0223585a7820da0011d3a5a1d31a068fe
+- id: doi:10.1158/2159-8290.22645249.v1
+  title: "Supplementary Data 3 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszp
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: a592ab5eb5c3e7bc1d8db0f6545876b7a1867dd885d144563d97fe51c836dcb3
+- id: doi:10.1158/2159-8290.22645246
+  title: "Supplementary Data 4 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszq
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 7e0269300dd4c8e4b0c43c1ef1423805c6f055f33d49b2ad232d8d010b120c55
+- id: doi:10.1158/2159-8290.22645246.v1
+  title: "Supplementary Data 4 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszr
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 4f99b41bc164defa71ff24b5fc6dce5701b0a5022ad9b037c3684b4df66901ec
+- id: doi:10.1158/2159-8290.22645243.v1
+  title: "Supplementary Data 5 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszs
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: abb1e30f14cf450ba16e735e3bfddf7dfee4af76abbb72b699c4b8b9801ec64c
+- id: doi:10.1158/2159-8290.22645243
+  title: "Supplementary Data 5 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszt
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: b3cd0e185c5f8d3083dde55320d2a94e0f88f17c6989637535983b553488b00f
+- id: doi:10.1158/2159-8290.22645240
+  title: "Supplementary Data 6 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszv
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: e9cc3b8efd6f5da27e7908796d821adf93c8223cf3b7892105a5e32a3a7a30af
+- id: doi:10.1158/2159-8290.22645240.v1
+  title: "Supplementary Data 6 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszw
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 28330c40ce8bb22bdb0d40d4b98ac9a2606aac77d74e424ff293aecf13d6ab43
+- id: doi:10.1158/2159-8290.22645237
+  title: "Supplementary Figures from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszx
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 0121ab0e4d837a56b0ba2e4bfd6a9d2d7a53fbbea1e9361025b3863b661c2bf0
+- id: doi:10.1158/2159-8290.22645237.v1
+  title: "Supplementary Figures from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgszz
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 222b1ce200b240ae173f59f57f8eeb4b0d19304fcb12bc637a52caab75ab8206
+- id: doi:10.1158/2159-8290.22645234.v1
+  title: "Supplementary Table 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgsz2
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 08cc289d8679a7d4fdc70082e01585898770cb760ee23c55f03a66d124835c4b
+- id: doi:10.1158/2159-8290.22645234
+  title: "Supplementary Table 1 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgsz3
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: d080e73f2175db62b544894beb0cad7648f71817658c1fec407f4d7bb682faef
+- id: doi:10.1158/2159-8290.22645228.v1
+  title: "Supplementary Table 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgsz5
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: a24b521243242d371c14cd55db77b3b5d7aff04c8c43607916a0e50095740791
+- id: doi:10.1158/2159-8290.22645228
+  title: "Supplementary Table 2 from Li\u2013Fraumeni Syndrome\u2013Associated Dimer-Forming\
+    \ Mutant p53 Promotes Transactivation-Independent Mitochondrial Cell Death"
+  authors:
+  - Joshua H. Choe
+  - Tatsuya Kawase
+  - An Xu
+  - Asja Guzman
+  - Aleksandar Z. Obradovic
+  - Ana Maria Low-Calle
+  - Bita Alaghebandan
+  - Ananya Raghavan
+  - Kaitlin Long
+  - Paul M. Hwang
+  - Joshua D. Schiffman
+  - Yan Zhu
+  - Ruiying Zhao
+  - Dung-Fang Lee
+  - Chen Katz
+  - Carol Prives
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-17'
+  link: https://doi.org/hcgsz6
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 1328dcdd365e9de795435ef5ded765f69d098ef40cc3c2ac3a3e0cfbfa291c7e
+- id: doi:10.1101/2022.05.06.490968
+  title: Single-Cell RNAseq Analysis Reveals Robust, Anti-PD-1-Mediated Increase of
+    Immune Infiltrate in Metastatic Castration-Sensitive Prostate Cancer
+  authors:
+  - Jessica E. Hawley
+  - Aleksandar Z. Obradovic
+  - Matthew C. Dallos
+  - Emerson A. Lim
+  - Karie Runcie
+  - Casey R. Ager
+  - James McKiernan
+  - Christopher B. Anderson
+  - Joel Decastro
+  - Joshua Weintraub
+  - Renu Virk
+  - Israel Lowy
+  - Jianhua Hu
+  - Matthew G. Chaimowitz
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Jeremy Worley
+  - Mark N. Stein
+  - Andrea Califano
+  - Charles G. Drake
+  publisher: openRxiv
+  date: '2022-05-09'
+  link: https://doi.org/gq6pxf
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 828c3ef1dd66a928aace5b5006c5d75c1728c71ccfe8ddef7d3f94c96ef6236d
+- id: doi:10.1101/2022.02.28.482410
+  title: Case Study of Single-cell Protein Activity Based Drug Prediction for Precision
+    Treatment of Cholangiocarcinoma
+  authors:
+  - Aleksandar Obradovic
+  - Lorenzo Tomassoni
+  - Daoqi Yu
+  - Kristina Guillan
+  - Katie Souto
+  - Elise Fraser
+  - Susan Bates
+  - Charles G. Drake
+  - Yvonne Saenger
+  - Filemon Dela Cruz
+  - Andrew Kung
+  - Andrea Califano
+  publisher: openRxiv
+  date: '2022-03-02'
+  link: https://doi.org/gq6pxd
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: bdddb9757d7e3c64ff60409ea7c212a2df636295be15b4b66bf028db5802a75e
+- id: doi:10.1101/2022.02.22.481404
+  title: Systematic Elucidation and Pharmacological Targeting of Tumor-Infiltrating
+    Regulatory T Cell Master Regulators
+  authors:
+  - Aleksandar Obradovic
+  - Casey Ager
+  - Mikko Turunen
+  - Thomas Nirschl
+  - Mohsen Khosravi-Maharlooei
+  - Christopher Jackson
+  - Vassan Yegnasubramanian
+  - Angelo DeMarzo
+  - Christina Kochel
+  - Mohamad Allaf
+  - Trinity Bivalacqua
+  - Michael Lim
+  - Charles Karan
+  - Charles G. Drake
+  - Andrea Califano
+  publisher: openRxiv
+  date: '2022-02-23'
+  link: https://doi.org/gq6pxc
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: aaa0119ffd8cc636f1cb0bc94f317d56e3303ba623dfb2dbbe1659a8e457ffc5
+- id: doi:10.1016/j.simpa.2021.100142
+  title: Integrated analysis toolset for defining and tracking alloreactive T-cell
+    clones after human solid organ and hematopoietic stem cell transplantation
+  authors:
+  - Aleksandar Obradovic
+  - Yufeng Shen
+  - Megan Sykes
+  - Jianing Fu
+  publisher: Software Impacts
+  date: '2021-11-01'
+  link: https://doi.org/gq6pvr
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 2c6347721b88c8025d3edcd6308edd1911892d56dea056d3842a7869cd16bc55
+- id: doi:10.1136/jitc-2020-001649
+  title: 'TGM4: an immunogenic prostate-restricted antigen'
+  authors:
+  - Zoila A Lopez-Bujanda
+  - Aleksandar Obradovic
+  - Thomas R Nirschl
+  - Laura Crowley
+  - Rodney Macedo
+  - Alexandros Papachristodoulou
+  - "Timothy O\u2019Donnell"
+  - Uri Laserson
+  - Jelani C Zarif
+  - Ran Reshef
+  - Tiezheng Yuan
+  - Mithil K Soni
+  - Emmanuel S Antonarakis
+  - Michael C Haffner
+  - H Benjamin Larman
+  - Michael M Shen
+  - Pawel Muranski
+  - Charles G Drake
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: '2021-06-01'
+  link: https://doi.org/gq6pt9
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: c2e36f3da7fa6a8fe0c7bb98f8fff16e139035069a99c5863a7e0b43c83d0d8a
+- id: doi:10.1101/2021.05.20.445002
+  title: Systematic, Protein Activity-based Characterization of Single Cell State
+  authors:
+  - Lukas Vlahos
+  - Aleksandar Obradovic
+  - Jeremy Worley
+  - Xiangtian Tan
+  - Andrew Howe
+  - Pasquale Laise
+  - Alec Wang
+  - Charles G. Drake
+  - Andrea Califano
+  publisher: openRxiv
+  date: '2021-05-22'
+  link: https://doi.org/gq6pt2
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 95c68c6b55c9f57ac3d4586831e8faa029f0feaaa6a82e15d5e0d5db1511b796
+- id: doi:10.25251/skin.5.3.3
+  title: 'Verrucous Carcinoma Arising Secondary to Diabetic Foot Lesions: A Systematic
+    Review of the Literature'
+  authors:
+  - Kayla Neville
+  - Aleksandar Obradovic
+  publisher: SKIN The Journal of Cutaneous Medicine
+  date: '2021-05-17'
+  link: https://doi.org/hcgsz9
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: bcf30ac2f54bcd20d7f6289623c603ff04081f8b4a52f1e931189d3351894148
+- id: doi:10.1016/j.cell.2021.04.038
+  title: Single-cell protein activity analysis identifies recurrence-associated renal
+    tumor macrophages
+  authors:
+  - Aleksandar Obradovic
+  - Nivedita Chowdhury
+  - Scott M. Haake
+  - Casey Ager
+  - Vinson Wang
+  - Lukas Vlahos
+  - Xinzheng V. Guo
+  - David H. Aggen
+  - W. Kimryn Rathmell
+  - Eric Jonasch
+  - Joyce E. Johnson
+  - Marc Roth
+  - Kathryn E. Beckermann
+  - Brian I. Rini
+  - James McKiernan
+  - Andrea Califano
+  - Charles G. Drake
+  publisher: Cell
+  date: '2021-05-01'
+  link: https://doi.org/gj4vf6
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 2c18cdb4fd743a99df0f2d05b86bebafbc459f0b06d39cd1ed0306e0e06bbcf1
+- id: doi:10.1172/JCI141698
+  title: Lymphohematopoietic graft-versus-host responses promote mixed chimerism in
+    patients receiving intestinal transplantation
+  authors:
+  - Jianing Fu
+  - Julien Zuber
+  - Brittany Shonts
+  - Aleksandar Obradovic
+  - Zicheng Wang
+  - Kristjana Frangaj
+  - Wenzhao Meng
+  - Aaron M. Rosenfeld
+  - Elizabeth E. Waffarn
+  - Peter Liou
+  - Sai-ping Lau
+  - Thomas M. Savage
+  - Suxiao Yang
+  - Kortney Rogers
+  - Nichole M. Danzl
+  - Shilpa Ravella
+  - Prakash Satwani
+  - Alina Iuga
+  - Siu-hong Ho
+  - Adam Griesemer
+  - Yufeng Shen
+  - Eline T. Luning Prak
+  - Mercedes Martinez
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Journal of Clinical Investigation
+  date: '2021-04-15'
+  link: https://doi.org/gq6pvb
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: ad84f5bd8f3cf707632c9815c0834b2e182d0cc1675add03144b7d31e80601ce
+- id: doi:10.1158/1078-0432.ccr-19-3372
+  title: T-Cell Infiltration and Adaptive Treg Resistance in Response to Androgen
+    Deprivation With or Without Vaccination in Localized Prostate Cancer
+  authors:
+  - Aleksandar Z. Obradovic
+  - Matthew C. Dallos
+  - Marianna L. Zahurak
+  - Alan W. Partin
+  - Edward M. Schaeffer
+  - Ashley E. Ross
+  - Mohamad E. Allaf
+  - Thomas R. Nirschl
+  - David Liu
+  - Carolyn G. Chapman
+  - Tanya O'Neal
+  - Haiyi Cao
+  - Jennifer N. Durham
+  - Gunes Guner
+  - Javier A. Baena-Del Valle
+  - Onur Ertunc
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Charles G. Drake
+  publisher: Clinical Cancer Research
+  date: '2020-07-01'
+  link: https://doi.org/gqdbqn
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: eb6e78dd6ecc7e16b98d69acf5ef580fbcce3c06903da257296c9335aeeac5ff
+- id: doi:10.1111/ajt.15592
+  title: Deletion of donor-reactive T cell clones after human liver transplant
+  authors:
+  - Thomas M. Savage
+  - Brittany A. Shonts
+  - Saiping Lau
+  - Aleksandar Obradovic
+  - Harlan Robins
+  - Abraham Shaked
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: American Journal of Transplantation
+  date: '2020-02-01'
+  link: https://doi.org/hcgs2b
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 0e6d6aec7f1b8b21903f2525d58f1b3ed8eaed044db4ce6f5a41ab3cf984e274
+- id: doi:10.1111/ajt.15533
+  title: Siplizumab selectively depletes effector memory T cells and promotes a relative
+    expansion of alloreactive regulatory T cells in vitro
+  authors:
+  - "Manuel A. Podest\xE0"
+  - Christian Binder
+  - Felix Sellberg
+  - Susan DeWolf
+  - Brittany Shonts
+  - Siu-Hong Ho
+  - Aleksandar Obradovic
+  - Elizabeth Waffarn
+  - Nichole Danzl
+  - David Berglund
+  - Megan Sykes
+  publisher: American Journal of Transplantation
+  date: '2020-01-01'
+  link: https://doi.org/gjfpbw
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 8c42d8aeebcb7e43d1761a2b953138267eacb8fa97ca08777234d1167fb65b52
+- id: doi:10.1172/JCI124358
+  title: Cross-reactive public TCR sequences undergo positive selection in the human
+    thymic repertoire
+  authors:
+  - Mohsen Khosravi-Maharlooei
+  - Aleksandar Obradovic
+  - Aditya Misra
+  - Keshav Motwani
+  - Markus Holzl
+  - Howard R. Seay
+  - Susan DeWolf
+  - Grace Nauman
+  - Nichole Danzl
+  - Haowei Li
+  - Siu-hong Ho
+  - Robert Winchester
+  - Yufeng Shen
+  - Todd M. Brusko
+  - Megan Sykes
+  publisher: Journal of Clinical Investigation
+  date: '2019-05-13'
+  link: https://doi.org/gq6psk
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: f199f00d78ff49a936e98b2c242751ec9e2982614cb87ec19c0bd4a0857af20f
+- id: doi:10.1016/j.stem.2018.11.007
+  title: Human Intestinal Allografts Contain Functional Hematopoietic Stem and Progenitor
+    Cells that Are Maintained by a Circulating Pool
+  authors:
+  - Jianing Fu
+  - Julien Zuber
+  - Mercedes Martinez
+  - Brittany Shonts
+  - Aleksandar Obradovic
+  - Hui Wang
+  - Sai-ping Lau
+  - Amy Xia
+  - Elizabeth E. Waffarn
+  - Kristjana Frangaj
+  - Thomas M. Savage
+  - Michael T. Simpson
+  - Suxiao Yang
+  - Xinzheng V. Guo
+  - Michelle Miron
+  - Takashi Senda
+  - Kortney Rogers
+  - Adeeb Rahman
+  - Siu-hong Ho
+  - Yufeng Shen
+  - Adam Griesemer
+  - Donna L. Farber
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Cell Stem Cell
+  date: '2019-02-01'
+  link: https://doi.org/gq6psh
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 9bcaa38b36cb0a6900b24724f25a1c1fbe26827774eb859cb7f87af5a48c36c9
+- id: doi:10.1186/s40425-019-0758-y
+  title: Immunogenicity of prostate cancer is augmented by BET bromodomain inhibition
+  authors:
+  - Wendy Mao
+  - Ali Ghasemzadeh
+  - Zachary T. Freeman
+  - Aleksandar Obradovic
+  - Matthew G. Chaimowitz
+  - Thomas R. Nirschl
+  - Emily McKiernan
+  - Srinivasan Yegnasubramanian
+  - Charles G. Drake
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: '2019-10-25'
+  link: https://doi.org/gh4xd4
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: c13869aabc5f85505ac8f2ece35c96989a1a10e0606c93222cd5f96e22749fdc
+- id: doi:10.1172/jci.insight.124086
+  title: Early expansion of donor-specific Tregs in tolerant kidney transplant recipients
+  authors:
+  - Thomas M. Savage
+  - Brittany A. Shonts
+  - Aleksandar Obradovic
+  - Susan Dewolf
+  - Saiping Lau
+  - Julien Zuber
+  - Michael T. Simpson
+  - Erik Berglund
+  - Jianing Fu
+  - Suxiao Yang
+  - Siu-Hong Ho
+  - Qizhi Tang
+  - Laurence A. Turka
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: JCI Insight
+  date: '2018-11-15'
+  link: https://doi.org/gh8tmv
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 1796abe56928280ba1ffbfafa33a6d58d77acfa762d600388bef83ef5e1ae5c2
+- id: doi:10.1172/jci.insight.121256
+  title: Quantifying size and diversity of the human T cell alloresponse
+  authors:
+  - Susan DeWolf
+  - Boris Grinshpun
+  - Thomas Savage
+  - Sai Ping Lau
+  - Aleksandar Obradovic
+  - Brittany Shonts
+  - Suxiao Yang
+  - Heather Morris
+  - Julien Zuber
+  - Robert Winchester
+  - Megan Sykes
+  - Yufeng Shen
+  publisher: JCI Insight
+  date: '2018-08-09'
+  link: https://doi.org/gq6psg
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 9afdefca0115dfa88bd008a0f17c04c8f070eb85b4beb0ced6aaba8122d96060
+- id: doi:10.1111/ajt.14251
+  title: "Origin of Enriched Regulatory T Cells in Patients Receiving Combined Kidney\u2013\
+    Bone Marrow Transplantation to Induce Transplantation Tolerance"
+  authors:
+  - B. Sprangers
+  - S. DeWolf
+  - T.M. Savage
+  - T. Morokata
+  - A. Obradovic
+  - S.A. LoCascio
+  - B. Shonts
+  - J. Zuber
+  - S.P. Lau
+  - R. Shah
+  - H. Morris
+  - V. Steshenko
+  - E. Zorn
+  - F.I. Preffer
+  - S. Olek
+  - D.M. Dombkowski
+  - L.A. Turka
+  - R. Colvin
+  - R. Winchester
+  - T. Kawai
+  - M. Sykes
+  publisher: American Journal of Transplantation
+  date: '2017-08-01'
+  link: https://doi.org/gq6prx
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: e7effa0b0e041001ff2189c3c146e88af8e3406922a448a69b733c034c708b0e
+- id: doi:10.1126/sciimmunol.aah3732
+  title: Bidirectional intragraft alloreactivity drives the repopulation of human
+    intestinal allografts and correlates with clinical outcome
+  authors:
+  - Julien Zuber
+  - Brittany Shonts
+  - Sai-Ping Lau
+  - Aleksandar Obradovic
+  - Jianing Fu
+  - Suxiao Yang
+  - Marion Lambert
+  - Shana Coley
+  - Joshua Weiner
+  - Joseph Thome
+  - Susan DeWolf
+  - Donna L. Farber
+  - Yufeng Shen
+  - Sophie Caillat-Zucman
+  - Govind Bhagat
+  - Adam Griesemer
+  - Mercedes Martinez
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Science Immunology
+  date: '2016-10-21'
+  link: https://doi.org/gmh235
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 3cb11ca4850666a5e7b3c71494488fe4578c83b69a18f5ee553b83eaa3dd70f2
+- id: pmc:PMC5323244
+  title: Bidirectional intragraft alloreactivity drives the repopulation of human
+    intestinal allografts and correlates with clinical outcome
+  authors:
+  - Julien Zuber
+  - Brittany Shonts
+  - Sai-Ping Lau
+  - Aleksandar Obradovic
+  - Jianing Fu
+  - Suxiao Yang
+  - Marion Lambert
+  - Shana Coley
+  - Joshua Weiner
+  - Joseph Thome
+  - Susan DeWolf
+  - Donna L Farber
+  - Yufeng Shen
+  - Sophie Caillat-Zucman
+  - Govind Bhagat
+  - Adam Griesemer
+  - Mercedes Martinez
+  - Tomoaki Kato
+  - Megan Sykes
+  publisher: Science immunology
+  date: '2016-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5323244/
+  orcid: 0000-0002-8009-0186
+  page: upton-goode
+  _cache: 561a66b1300987e79b3c282467742457626765dd1cfd895b0dfae460d02c514e
+- id: doi:10.1200/PO-26-00138
+  title: 'Targeting of MEK and Autophagy in Pancreatic Adenocarcinoma and Analysis
+    of Treatment Sensitivity in Preclinical and Clinical Models: MEKiAUTO'
+  authors:
+  - Brian W. Labadie
+  - Aleksandar Obradovic
+  - Alexander G. Raufi
+  - Urszula N. Wasko
+  - Lorenzo Tomassoni
+  - Liner Ge
+  - Michael May
+  - Manan Vij
+  - Li Li
+  - Isabelle Ross
+  - Sarah S. Sedycius
+  - Naomi Sender
+  - Nickolas Dreher
+  - Linda Wu
+  - Sinan Abuzaid
+  - Alina Iuga
+  - Parin Shah
+  - Julia D. Wulfkuhle
+  - Susan Bates
+  - Winston Wong
+  - Ilenia Pellicciotta
+  - Alex K. Lyashchenko
+  - Howard Safran
+  - Benjamin Izar
+  - Emanuel F. Petricoin
+  - Serge Cremers
+  - Aik Choon Tan
+  - Shing Lee
+  - Andrea Califano
+  - Kenneth P. Olive
+  - Gulam A. Manji
+  publisher: JCO Precision Oncology
+  date: '2026-06-01'
+  link: https://doi.org/hcgsv3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41416-020-01039-5/MediaObjects/41416_2020_1039_Fig1_HTML.png?
+  tags:
+  - tumor immunology
+  _cache: 4e98b901d2820dbe464ab7c7dd4a5f5b3905140481153a0f185b650f29020ca4
+- id: doi:10.1038/s41588-026-02550-w
+  title: Systematic design of combination therapy by targeting master regulators of
+    coexisting diffuse midline glioma cell states
+  authors:
+  - "Ester Calvo Fern\xE1ndez"
+  - Lorenzo Tomassoni
+  - Xu Zhang
+  - Junqiang Wang
+  - Aleksandar Obradovic
+  - Pasquale Laise
+  - Aaron T. Griffin
+  - Lukas Vlahos
+  - Hanna E. Minns
+  - Diana V. Morales
+  - Christian Simmons
+  - Matthew Gallitto
+  - Hong-Jian Wei
+  - Timothy J. Martins
+  - Pamela S. Becker
+  - John R. Crawford
+  - Theophilos Tzaridis
+  - Robert J. Wechsler-Reya
+  - James Garvin
+  - Robyn D. Gartrell
+  - Luca Szalontay
+  - Stergios Zacharoulis
+  - Cheng-Chia Wu
+  - Zhiguo Zhang
+  - Andrea Califano
+  - Jovana Pavisic
+  publisher: Nature Genetics
+  date: '2026-04-22'
+  link: https://doi.org/hcgs2h
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02550-w/MediaObjects/41588_2026_2550_Fig1_HTML.png?
+  tags:
+  - tumor immunology
+  _cache: a0c26c5ea7de8fe4944aeed19049b24066982084ad00f6e7801e8b60ae5a4e53
+- id: doi:10.1038/s41588-026-02550-w
+  title: Systematic design of combination therapy by targeting master regulators of
+    coexisting diffuse midline glioma cell states
+  authors:
+  - "Ester Calvo Fern\xE1ndez"
+  - Lorenzo Tomassoni
+  - Xu Zhang
+  - Junqiang Wang
+  - Aleksandar Obradovic
+  - Pasquale Laise
+  - Aaron T. Griffin
+  - Lukas Vlahos
+  - Hanna E. Minns
+  - Diana V. Morales
+  - Christian Simmons
+  - Matthew Gallitto
+  - Hong-Jian Wei
+  - Timothy J. Martins
+  - Pamela S. Becker
+  - John R. Crawford
+  - Theophilos Tzaridis
+  - Robert J. Wechsler-Reya
+  - James Garvin
+  - Robyn D. Gartrell
+  - Luca Szalontay
+  - Stergios Zacharoulis
+  - Cheng-Chia Wu
+  - Zhiguo Zhang
+  - Andrea Califano
+  - Jovana Pavisic
+  publisher: Nature Genetics
+  date: '2026-04-22'
+  link: https://doi.org/hcgs2h
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-026-02550-w/MediaObjects/41588_2026_2550_Fig1_HTML.png?
+  tags:
+  - tumor immunology
+  _cache: a0c26c5ea7de8fe4944aeed19049b24066982084ad00f6e7801e8b60ae5a4e53
+- id: doi:10.1158/1538-7445.AM2026-CT017
+  title: "Abstract CT017: Neoadjuvant IL-1\u03B2 and PD-1 inhibition in localized\
+    \ clear-cell renal cell carcinoma: Clinical and correlative analyses of the phase\
+    \ 1b SPARC-1 trial"
+  authors:
+  - Patrick J. McCann
+  - Aleksandar Obradovic
+  - Casey R. Ager
+  - David H. Aggen
+  - Catherine S. Spina
+  - Chelsea L. Rahiman
+  - Kaitlyn R. Campbell
+  - Caroline Laplaca
+  - Peyton C. Johnston
+  - Amanda Kim
+  - Katherine Gomez
+  - Kriti Bagri Manjrekar
+  - Mark N. Stein
+  - Charles G. Drake
+  - Karie Runcie
+  - Matthew Dallos
+  publisher: Cancer Research
+  date: '2026-04-17'
+  link: https://doi.org/hcgs2k
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: e129ef6632534f69a2d1bc4d910dfacda1d18ae841ca54f48c04f93e048ded31
+- id: doi:10.1158/1538-7445.AM2026-7419
+  title: 'Abstract 7419: Comprehensive profiling of primary and metastatic prostate
+    tumors reveals distinct tumor and fibroblast cell states associated with androgen
+    resistance'
+  authors:
+  - Aleksandar Obradovic
+  - Kwangmin Yoo
+  - Chang Liu
+  - Patrick McCann
+  - Casey R. Ager
+  - Matthew C. Dallos
+  - Samir Zaidi
+  publisher: Cancer Research
+  date: '2026-04-03'
+  link: https://doi.org/hcgs2m
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: b86963989794fd8a1c659536c76016549c56d799a8bad3d1572379a412ba3dc5
+- id: doi:10.1158/1538-7445.AM2026-4938
+  title: 'Abstract 4938: Elucidation and pharmacologic targeting of master regulator
+    proteins representing mechanistic determinants of macrophage state and immunoevasive
+    potential'
+  authors:
+  - Gaetano Viscido
+  - Mikko Turunen
+  - Zhouzerui Liu
+  - Justyn Chang
+  - Meghna S. Raman
+  - Leo B. Dupire
+  - Hanrui Zhang
+  - Tim Olsen
+  - Jeremy Worley
+  - Aleksandar Obradovic
+  - Andrea Califano
+  publisher: Cancer Research
+  date: '2026-04-03'
+  link: https://doi.org/hcgs2p
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: c3d0342aa1ca9b1242fa7086fe1de50099648f947d87cdd1039d6c920824e9f8
+- id: doi:10.1016/j.xcrm.2026.102638
+  title: 'Neoadjuvant Fc-enhanced anti-CTLA-4 targets Tregs to augment androgen deprivation
+    in high-risk prostate cancer: A randomized phase I trial'
+  authors:
+  - Casey R. Ager
+  - Aleksandar Obradovic
+  - Patrick McCann
+  - Matthew Chaimowitz
+  - Alexander L.E. Wang
+  - Neha Shaikh
+  - Parin Shah
+  - Samuel S. Pan
+  - Caroline J. Laplaca
+  - Renu K. Virk
+  - Jessica C. Hill
+  - Collin Jugler
+  - Grace DeFranco
+  - Nilika Bhattacharya
+  - Kade R. Copple
+  - Phuong Nguyen
+  - Howard I. Scher
+  - Guarionex Joel DeCastro
+  - Christopher B. Anderson
+  - James M. McKiernan
+  - Catherine S. Spina
+  - Mark N. Stein
+  - Karie Runcie
+  - Charles G. Drake
+  - Andrea Califano
+  - Matthew C. Dallos
+  publisher: Cell Reports Medicine
+  date: '2026-03-17'
+  link: https://doi.org/hbqr4h
+  image: https://www.cell.com/cms/10.1016/j.xcrm.2026.102638/asset/31bf4bd8-c942-4369-9d60-2345447d1f6c/main.assets/fx1.jpg
+  tags:
+  - tumor immunology
+  _cache: 9a1f4ff41817a8c60d90ecffe1482d20c44e965b7b4c4768c6c5b620431e47c0
+- id: doi:10.64898/2025.12.27.696673
+  title: TMPO promotes cellular dissemination and metastasis in circulating tumor
+    cells
+  authors:
+  - Arianna Giacobbe
+  - Aleksandar Z. Obradovic
+  - Jinqiu Lu
+  - Soonbum Park
+  - Carlos Pedraz-Valdunciel
+  - "Giuseppe Nicolo\u2019 Fanelli"
+  - Aunika Zheng
+  - Jaime Y. Kim
+  - Maya Stella Dixon
+  - Jung Seung Nam
+  - Florencia Picech
+  - Caroline Laplaca
+  - Renu K. Virk
+  - Matteo Di Bernardo
+  - Alexander Chui
+  - Juan M. Arriaga
+  - Stephanie Afari
+  - Francisca Nunes de Almeida
+  - Min Zou
+  - Helen Garcia
+  - Brian D. Robinson
+  - Hongshan Guo
+  - Shyamala Maheswaran
+  - Daniel A. Haber
+  - David T. Miyamoto
+  - David M. Nanus
+  - Scott T. Tagawa
+  - Tian Zheng
+  - Massimo Loda
+  - Iok In Christine Chio
+  - Michael Shen
+  - Paraskevi Giannakakou
+  - Andrea Califano
+  - Peter A. Sims
+  - Cory Abate-Shen
+  publisher: openRxiv
+  date: ''
+  link: https://doi.org/hcgs2q
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41420-023-01585-w/MediaObjects/41420_2023_1585_Fig3_HTML.png?
+  tags:
+  - tumor immunology
+  _cache: 7064de8d8a3407e138a214d04093a963a64123a67ac33f98a323fdb2780840c2
+- id: doi:10.1182/blood-2025-3558
+  title: Ruxolitinib increases immunogenicity and primes the tumor microenvironment
+    for immune checkpoint blockade in 9p24.1 amplified lymphomas
+  authors:
+  - Seda Tolu
+  - Ted Piorczynski
+  - Manuel Pazos
+  - Brian Estrella
+  - Aleksandar Obradovic
+  - Hua-Jay Cherng
+  - Barbara Pro
+  - Jennifer Amengual
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hcgs2r
+  image: https://ars.els-cdn.com/content/image/B00064971.svg
+  tags:
+  - tumor immunology
+  _cache: dae45d6dbc4799abe0f6d4033daa0949913ab4b2c5c87d027e994ae79d42a6b2
+- id: doi:10.1158/1538-7445.AM2025-3442
+  title: 'Abstract 3442: Multi-omics comparison of early vs late-onset colorectal
+    cancer reveals distinct tumor phenotype of early-onset patients'
+  authors:
+  - David Cohen
+  - Aleksandar Obradovic
+  - Luka Jovanovic
+  - Soobeom Lee
+  - Dechokyab De
+  - Casidhe-Nicole Bethancourt
+  - Caitlin Rogers
+  - Yosuke Mitani
+  - Tianxia Li
+  - Viktoria Jakubikova
+  - Yoanna Pumpalova
+  - Beatrice Dionigi
+  - Sanja Vickovic
+  - Joel Gabre
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hcgs2t
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: fde5ccecca079fc5b1d1d9ead622e7c20ab028e4f70291aec48b488afb325ebe
+- id: doi:10.1158/1538-7445.AM2025-7479
+  title: 'Abstract 7479: Single-cell OncoTreat: Novel therapeutic candidates by high
+    resolution inference and validation of drug sensitivities in heterogeneous cholangiocarcinoma
+    tumors'
+  authors:
+  - Aleksandar Obradovic
+  - Lorenzo Tomassoni
+  - Daoqi You
+  - Charles Drake
+  - Filemon Dela Cruz
+  - Andrew Kung
+  - Andrea Califano
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hcgs2v
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: 72291b9880a0c5c848c0f0b4b62dccd1ee63e56f88ce8620e5dc999da790a0f4
+- id: doi:10.1101/2024.09.09.24313308
+  title: Fc-enhanced anti-CTLA-4 depletes tumor-infiltrating regulatory T cells to
+    augment immune effects of androgen ablation in high-risk prostate cancer
+  authors:
+  - Casey R. Ager
+  - Aleksandar Obradovic
+  - Patrick McCann
+  - Matthew Chaimowitz
+  - Alexander L. E. Wang
+  - Neha Shaikh
+  - Parin Shah
+  - Samuel S. Pan
+  - Caroline J. Laplaca
+  - Renu K. Virk
+  - Jessica C. Hill
+  - Collin Jugler
+  - Grace DeFranco
+  - Nilika Bhattacharya
+  - Kade R. Copple
+  - Howard I. Scher
+  - Guarionex Joel DeCastro
+  - Christopher B. Anderson
+  - James M. McKiernan
+  - Catherine S. Spina
+  - Mark N. Stein
+  - Karie Runcie
+  - Charles G. Drake
+  - Andrea Califano
+  - Matthew C. Dallos
+  publisher: openRxiv
+  date: '2025-03-31'
+  link: https://doi.org/hcgsw4
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2550/11967737/633ab11f0d15/nihpp-2024.09.09.24313308v2-f0001.jpg
+  tags:
+  - tumor immunology
+  _cache: 0df735c467656d9b732be97c84d676af346b96619e4379f2c2d4e3143eb44611
+- id: doi:10.1158/1557-3265.TARGETEDTHERAP-B028
+  title: 'Abstract B028: Multimodal approach to characterization of metabolism and
+    immune modulation with insights from spatial metabolomics and transcriptomics'
+  authors:
+  - Chelsea L. Rahiman
+  - Roberto Ribas
+  - Manan Vij
+  - Julia An
+  - Patrick J. McCann
+  - Jason Cham
+  - Chang Liu
+  - Parin Shah
+  - Rosa Martin
+  - Ariel Chen
+  - Simon Cheng
+  - Aleksandar Z. Obradovic
+  - Ramon C. Sun
+  - Catherine S. Spina
+  publisher: Clinical Cancer Research
+  date: '2025-01-26'
+  link: https://doi.org/hcgs2w
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: 858fbfba911dad14bed893276f02693095cd3479a93e81a65d96ab5eb7eb473e
+- id: doi:10.1158/1078-0432.CCR-24-0060
+  title: Androgen Deprivation Therapy Drives a Distinct Immune Phenotype in Localized
+    Prostate Cancer
+  authors:
+  - Matthew C. Dallos
+  - Aleksandar Z. Obradovic
+  - Patrick McCann
+  - Nivedita Chowdhury
+  - Aditya Pratapa
+  - David H. Aggen
+  - Christopher Gaffney
+  - Karen A. Autio
+  - Renu K. Virk
+  - Angelo M. De Marzo
+  - Emmanuel S. Antonarakis
+  - Howard I. Scher
+  - Charles G. Drake
+  - Dana E. Rathkopf
+  publisher: Clinical Cancer Research
+  date: ''
+  link: https://doi.org/g9466c
+  image: https://www.cell.com/cms/10.1016/j.ccell.2023.10.006/asset/c3aa36d1-0489-4c29-a9c0-3556ab0f1693/main.assets/fx1_lrg.jpg
+  tags:
+  - tumor immunology
+  _cache: 9192bfc45b10e6a6c41c84226ee88bbcf3ff0a28bbd00cfc34be1092b277a224
+- id: doi:10.1073/pnas.2322203121
+  title: "Single-cell analysis of treatment-resistant prostate cancer: Implications\
+    \ of cell state changes for cell surface antigen\u2013targeted therapies"
+  authors:
+  - Samir Zaidi
+  - Jooyoung Park
+  - Joseph M. Chan
+  - Martine P. Roudier
+  - Jimmy L. Zhao
+  - Anuradha Gopalan
+  - Kristine M. Wadosky
+  - Radhika A. Patel
+  - Erolcan Sayar
+  - Wouter R. Karthaus
+  - D. Henry Kates
+  - Ojasvi Chaudhary
+  - Tianhao Xu
+  - Ignas Masilionis
+  - Linas Mazutis
+  - "Ronan Chalign\xE9"
+  - Aleksandar Obradovic
+  - Irina Linkov
+  - Afsar Barlas
+  - Achim A. Jungbluth
+  - Natasha Rekhtman
+  - Joachim Silber
+  - Katia Manova-Todorova
+  - Philip A. Watson
+  - Lawrence D. True
+  - Colm Morrissey
+  - Howard I. Scher
+  - Dana E. Rathkopf
+  - Michael J. Morris
+  - David W. Goodrich
+  - Jungmin Choi
+  - Peter S. Nelson
+  - Michael C. Haffner
+  - Charles L. Sawyers
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-07-09'
+  link: https://doi.org/hbb6f8
+  image: https://www.mdpi.com/cancers/cancers-13-04757/article_deploy/html/images/cancers-13-04757-g001-550.jpg
+  tags:
+  - tumor immunology
+  _cache: a127e65e024ba950921ebcbc879281d94716e0a26a65b8c574459f972f3d5f4c
+- id: doi:10.1158/1538-7445.AM2024-5460
+  title: 'Abstract 5460: Discovery and validation of effective combination therapies
+    targeting cell state-specific master regulator vulnerabilities by network-based
+    protein activity inference in diffuse midline glioma'
+  authors:
+  - Ester Calvo Fernandez
+  - Lorenzo Tomassoni
+  - Xu Zhang
+  - Aleksandar Obradovic
+  - Pasquale Laise
+  - Aaron T. Griffin
+  - Lukas Vlahos
+  - Junqiang Wang
+  - Hanna E. Minns
+  - Diana V. Morales
+  - Christian Simmons
+  - Matthew Gallito
+  - Hong-Jian Wei
+  - Zhiguo Zhang
+  - Robyn Gartrell
+  - Luca Szalontay
+  - Stergios Zacharoulis
+  - Cheng-Chia Wu
+  - Andrea Califano
+  - Jovana Pavisic
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/hcgs2z
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: d9b7e5abae10c10d4ac9f9909b24cec676c311aab309ca8f7b5ba843b6e9936d
+- id: doi:10.1158/1538-7445.AM2024-1127
+  title: 'Abstract 1127: Single cell network-based analyses reveal dose-dependent
+    increase in myeloid suppressive cell sub-populations in response to radiation
+    therapy'
+  authors:
+  - Aparna Krishnan
+  - Shruti Bansal
+  - Samanta Sarti
+  - Michael D. Kissner
+  - Charles Karan
+  - Andrea Califano
+  - Aleksandar Z. Obradovic
+  - Catherine S. Spina
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/hcgs23
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: bf4cd764b39e4a36cd9019d73ba62c0c0fd7d18be3ac82f95db462ad4d94dbef
+- id: doi:10.1158/1538-7445.AM2024-6516
+  title: 'Abstract 6516: Single-cell protein activity inference reveals lymphocytic
+    immune infiltration in diffuse intrinsic pontine glioma induced by focused ultrasound'
+  authors:
+  - Erin White
+  - Hong-Jian Wei
+  - "Ester Calvo Fern\xE1ndez"
+  - Hanna Minns
+  - Jovana Pavisic
+  - Robyn Gartrell
+  - Cheng-Chia Wu
+  - Andrea Califano
+  - Aleksandar Obradovic
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/hcgs24
+  image: https://www.dwih-sanfrancisco.org/files/2026/01/AACR-3-1.png
+  tags:
+  - tumor immunology
+  _cache: 414b3cea18cd43f7ba2d7cf6520d06f5f93ee46532654c76d33e63e0cc4b7923
+- id: doi:10.1016/j.ebiom.2024.105028
+  title: Dynamic establishment of recipient resident memory T cell repertoire after
+    human intestinal transplantation
+  authors:
+  - Wenyu Jiao
+  - Mercedes Martinez
+  - Constanza Bay Muntnich
+  - Julien Zuber
+  - Christopher Parks
+  - Aleksandar Obradovic
+  - Guangyao Tian
+  - Zicheng Wang
+  - Katherine D. Long
+  - Elizabeth Waffarn
+  - Kristjana Frangaj
+  - Rebecca Jones
+  - Alaka Gorur
+  - Brittany Shonts
+  - Kortney Rogers
+  - Guoyue Lv
+  - Monica Velasco
+  - Shilpa Ravella
+  - Joshua Weiner
+  - Tomoaki Kato
+  - Yufeng Shen
+  - Jianing Fu
+  - Megan Sykes
+  publisher: eBioMedicine
+  date: '2024-03-06'
+  link: https://doi.org/hcgs25
+  image: https://www.thelancet.com/cms/10.1016/j.ebiom.2024.105028/asset/2d8f699e-b7be-4c9c-86d8-4f70f2b42f67/main.assets/gr1.jpg
+  tags:
+  - transplant immunology
+  _cache: 22ae488928fd16748ccca6764e6f2d2b7fd4453c194ebfa3d0533410272a4323
+- id: doi:10.1038/s41598-024-51889-9
+  title: Immunomodulatory response to neoadjuvant nivolumab in non-metastatic clear
+    cell renal cell carcinoma
+  authors:
+  - Nirmish Singla
+  - Thomas R. Nirschl
+  - Aleksandar Z. Obradovic
+  - Eugene Shenderov
+  - Kara Lombardo
+  - Xiaopu Liu
+  - Alice Pons
+  - Jelani C. Zarif
+  - Steven P. Rowe
+  - Bruce J. Trock
+  - Hans J. Hammers
+  - Trinity J. Bivalacqua
+  - Phillip M. Pierorazio
+  - Julie S. Deutsch
+  - Tamara L. Lotan
+  - Janis M. Taube
+  - Yasser M. A. Ged
+  - Michael A. Gorin
+  - Mohamad E. Allaf
+  - Charles G. Drake
+  publisher: Scientific Reports
+  date: '2024-01-17'
+  link: https://doi.org/hcgs27
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-024-51889-9/MediaObjects/41598_2024_51889_Fig1_HTML.png?
+  tags:
+  - tumor immunology
+  _cache: 6e386bfca7e90f8ac845697d5b75d045513729553168df5644022e02f932239c
+- id: doi:10.1084/jem.20230930
+  title: Plasticity of intragraft alloreactive T cell clones in human gut correlates
+    with transplant outcomes
+  authors:
+  - Jianing Fu
+  - Zicheng Wang
+  - Mercedes Martinez
+  - Aleksandar Obradovic
+  - Wenyu Jiao
+  - Kristjana Frangaj
+  - Rebecca Jones
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Wan-I Kuo
+  - Huaibin M. Ko
+  - Alina Iuga
+  - Constanza Bay Muntnich
+  - Adriana Prada Rey
+  - Kortney Rogers
+  - Julien Zuber
+  - Wenji Ma
+  - Michelle Miron
+  - Donna L. Farber
+  - Joshua Weiner
+  - Tomoaki Kato
+  - Yufeng Shen
+  - Megan Sykes
+  publisher: Journal of Experimental Medicine
+  date: ''
+  link: https://doi.org/hcgsw5
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41581-022-00600-0/MediaObjects/41581_2022_600_Fig1_HTML.png
+  tags:
+  - transplant immunology
+  _cache: 8ee21e66d08db71bbd43d96ccb0ea7be47ccb3e60a6e12a34bc8996102c2d44d
+- id: doi:10.1016/j.yjpso.2023.100095
+  title: Characterization of gene expression and biological pathways in Wilms tumor
+  authors:
+  - Claire D. Gerall
+  - Aleksandar Z. Obradovic
+  - Madison C. Betcher
+  - Larisa Debelenko
+  - Alice Lee
+  - Matthew C. Dallos
+  - Erica M. Fallon
+  publisher: Journal of Pediatric Surgery Open
+  date: '2023-12-03'
+  link: https://doi.org/hcgs29
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2949711623000928-gr1.jpg
+  tags:
+  - tumor immunology
+  _cache: c2bc987a5756063d76769e342294c7a3e6ca2fa8f4ddda1350bc4a8123584c37
+- id: doi:10.1016/j.ccell.2023.10.006
+  title: Anti-PD-1 immunotherapy with androgen deprivation therapy induces robust
+    immune infiltration in metastatic castration-sensitive prostate cancer
+  authors:
+  - Jessica E. Hawley
+  - Aleksandar Z. Obradovic
+  - Matthew C. Dallos
+  - Emerson A. Lim
+  - Karie Runcie
+  - Casey R. Ager
+  - James McKiernan
+  - Christopher B. Anderson
+  - Guarionex J. Decastro
+  - Joshua Weintraub
+  - Renu Virk
+  - Israel Lowy
+  - Jianhua Hu
+  - Matthew G. Chaimowitz
+  - Xinzheng V. Guo
+  - Ya Zhang
+  - Michael C. Haffner
+  - Jeremy Worley
+  - Mark N. Stein
+  - Andrea Califano
+  - Charles G. Drake
+  publisher: Cancer Cell
+  date: ''
+  link: https://doi.org/gs4zjm
+  image: https://www.cell.com/cms/10.1016/j.ccell.2023.10.006/asset/4b14724f-a410-45aa-b223-ce55ef4fcbe8/main.assets/fx1.jpg
+  tags:
+  - tumor immunology
+  _cache: 6ce7ef616f49b03c373b999edb33d20e42011e63a322a2d78693297bf4dfb486
+- id: doi:10.1136/jitc-2023-006782
+  title: KLRG1 marks tumor-infiltrating CD4 T cell subsets associated with tumor progression
+    and immunotherapy response
+  authors:
+  - Casey R Ager
+  - Mingxuan Zhang
+  - Matthew Chaimowitz
+  - Shruti Bansal
+  - Somnath Tagore
+  - Aleksandar Obradovic
+  - Collin Jugler
+  - Meri Rogava
+  - Johannes C Melms
+  - Patrick McCann
+  - Catherine Spina
+  - Charles G Drake
+  - Matthew C Dallos
+  - Benjamin Izar
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: '2023-09-01'
+  link: https://doi.org/hcgs3b
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f4f1/10476134/9bcdabb169bc/jitc-2023-006782f01.jpg
+  tags:
+  - tumor immunology
+  _cache: 38e110ec1dfa580d31d58d011765a561c074655be4c784e52f02720845eb977e
 - id: doi:10.1016/j.ccell.2023.04.003
   title: "Systematic elucidation and pharmacological targeting of tumor-infiltrating\
     \ regulatory T\_cell master regulators"
